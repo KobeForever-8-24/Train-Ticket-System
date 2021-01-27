@@ -1,0 +1,2402 @@
+CityA,CityB,Price,Time
+Alameda,Santa Barbara,131,9.8
+Alameda,Rye,93,4.5
+Alameda,Nauvoo,132,7.9
+Alameda,Redlands,58,6.3
+Alameda,Albany,115,4.2
+Alhambra,Coney Island,132,6.9
+Alhambra,Seattle,150,8.8
+Alhambra,Eureka,107,9.6
+Alhambra,Menasha,118,5.8
+Alhambra,Monroeville,132,1.2
+Anaheim,Sausalito,67,8.2
+Anaheim,New York City,105,4.4
+Anaheim,Baraboo,62,3.6
+Anaheim,Libertyville,149,9.6
+Anaheim,Palatine,57,4.9
+Antioch,Wisconsin Dells,120,7.0
+Antioch,Watervliet,143,3.6
+Antioch,Kankakee,102,2.4
+Antioch,Centralia,124,8.4
+Antioch,Harmony,90,3.9
+Arcadia,Everett,124,10.8
+Arcadia,Shamokin,68,2.0
+Arcadia,Harrisburg,121,3.0
+Arcadia,Sunbury,89,7.9
+Arcadia,Massena,53,6.7
+Bakersfield,Pittsburgh,139,1.3
+Bakersfield,Sharon,148,4.9
+Bakersfield,Huntington Beach,133,3.0
+Bakersfield,Kenosha,118,3.2
+Bakersfield,Philadelphia,77,2.3
+Barstow,Ojai,110,8.8
+Barstow,San Simeon,52,6.6
+Barstow,South San Francisco,111,3.1
+Barstow,Turlock,92,2.6
+Barstow,Coupeville,113,10.0
+Belmont,Redmond,126,6.9
+Belmont,Ambridge,133,4.8
+Belmont,Bellingham,121,2.1
+Belmont,Meadville,88,9.8
+Belmont,West Chester,72,5.4
+Berkeley,Columbia,67,7.3
+Berkeley,Tarrytown,92,2.7
+Berkeley,Geneva,62,10.5
+Berkeley,Santa Ana,130,6.3
+Berkeley,Bakersfield,134,10.5
+Beverly Hills,Carlsbad,146,10.5
+Beverly Hills,Oshkosh,115,3.9
+Beverly Hills,Longview,56,9.8
+Beverly Hills,Lake Geneva,132,5.5
+Beverly Hills,Waukesha,83,3.4
+Brea,Cohoes,129,2.3
+Brea,Tonawanda,145,9.7
+Brea,Santa Clara,87,3.7
+Brea,Redwood City,145,5.2
+Brea,Buffalo,141,6.1
+Buena Park,Manitowoc,56,9.9
+Buena Park,State College,147,10.7
+Buena Park,Bakersfield,116,1.5
+Buena Park,Mount Vernon,129,4.0
+Buena Park,Amsterdam,79,3.7
+Burbank,Elmhurst,90,1.5
+Burbank,Prairie du Chien,127,4.2
+Burbank,Huntington,85,4.5
+Burbank,Hazleton,106,4.0
+Burbank,Oroville,134,7.3
+Calexico,Hanover,112,7.5
+Calexico,Madison,116,3.4
+Calexico,East Hampton,103,3.0
+Calexico,Huntington,122,2.0
+Calexico,Lake Forest,108,10.2
+Calistoga,Watts,132,5.0
+Calistoga,Corning,84,7.8
+Calistoga,Barstow,51,7.9
+Calistoga,Kenosha,131,8.7
+Calistoga,Bellingham,135,5.9
+Carlsbad,Ottawa,72,8.7
+Carlsbad,Ithaca,148,3.7
+Carlsbad,Vancouver,96,7.4
+Carlsbad,Manitowoc,64,10.4
+Carlsbad,San Simeon,107,8.6
+Carmel,Glendale,108,5.5
+Carmel,Huntington Beach,116,6.3
+Carmel,Eureka,139,3.8
+Carmel,Indiana,142,3.1
+Carmel,Coronado,137,5.0
+Chico,Virden,148,8.9
+Chico,Harmony,113,8.2
+Chico,Arcadia,75,3.8
+Chico,Evanston,111,9.2
+Chico,Centralia,100,7.1
+Chula Vista,Peekskill,123,9.7
+Chula Vista,Fremont,126,2.6
+Chula Vista,Pottsville,76,10.8
+Chula Vista,Point Roberts,76,8.5
+Chula Vista,Fairfield,122,8.7
+Claremont,Granite City,56,6.8
+Claremont,Bakersfield,126,2.2
+Claremont,Middletown,85,3.3
+Claremont,Saratoga Springs,106,9.3
+Claremont,Santa Cruz,52,3.6
+Compton,Oneonta,101,8.1
+Compton,Clinton,59,10.2
+Compton,El Cerrito,118,1.3
+Compton,Superior,147,6.7
+Compton,Quincy,105,5.0
+Concord,Herkimer,139,6.0
+Concord,East Aurora,74,10.4
+Concord,Santa Cruz,132,7.3
+Concord,Levittown,65,1.8
+Concord,Fresno,89,3.5
+Corona,Sheboygan,64,6.8
+Corona,Brookfield,69,8.5
+Corona,Carlisle,97,6.6
+Corona,Glendale,63,2.8
+Corona,Lake Forest,141,9.4
+Coronado,Plattsburgh,141,3.3
+Coronado,Pottsville,124,9.0
+Coronado,Port Hueneme,138,4.2
+Coronado,Chicago,133,7.9
+Coronado,Redwood City,84,5.0
+Costa Mesa,Calistoga,139,3.0
+Costa Mesa,Ambridge,136,7.6
+Costa Mesa,West Bend,116,6.2
+Costa Mesa,Long Beach,77,2.7
+Costa Mesa,El Monte,101,8.3
+Culver City,Erie,148,3.6
+Culver City,Arcadia,109,1.3
+Culver City,Bloomington,124,2.9
+Culver City,Bedford,112,10.2
+Culver City,Belmont,126,9.0
+Daly City,Ukiah,68,4.9
+Daly City,Coulee Dam,150,6.4
+Daly City,Swarthmore,64,5.4
+Daly City,Batavia,62,9.2
+Daly City,Pasco,124,7.4
+Davis,Corona,94,9.0
+Davis,Oxnard,91,5.3
+Davis,San Bernardino,131,1.7
+Davis,Carlsbad,120,5.8
+Davis,Auburn,101,3.4
+Downey,Lincoln,137,7.7
+Downey,Ukiah,55,6.1
+Downey,Cheektowaga,86,7.8
+Downey,Oroville,68,3.6
+Downey,Glens Falls,130,9.7
+El Centro,Nyack,96,9.6
+El Centro,Neenah,147,10.2
+El Centro,Indio,82,9.9
+El Centro,South San Francisco,107,5.0
+El Centro,Elmira,136,8.1
+El Cerrito,Port Angeles,144,10.4
+El Cerrito,Yorba Linda,105,2.9
+El Cerrito,Roseville,69,10.9
+El Cerrito,Harrisburg,102,2.7
+El Cerrito,East Aurora,116,9.7
+El Monte,Wood River,124,10.0
+El Monte,Mountain View,118,3.0
+El Monte,Levittown,132,10.2
+El Monte,Niagara Falls,103,6.8
+El Monte,Arlington Heights,144,1.7
+Escondido,Bakersfield,144,3.0
+Escondido,Lincoln,142,9.7
+Escondido,Johnstown,122,5.8
+Escondido,Wenatchee,76,2.3
+Escondido,Norristown,63,1.6
+Eureka,Cairo,61,8.5
+Eureka,Olean,93,8.7
+Eureka,Baraboo,57,3.2
+Eureka,La Salle,133,8.2
+Eureka,El Cerrito,117,4.1
+Fairfield,Scranton,102,7.4
+Fairfield,Sag Harbor,108,9.5
+Fairfield,Troy,98,9.4
+Fairfield,McKeesport,66,4.2
+Fairfield,Bedford,133,10.8
+Fontana,Oceanside,80,2.8
+Fontana,Pontiac,90,2.5
+Fontana,Cheektowaga,118,10.8
+Fontana,Calumet City,122,5.1
+Fontana,Orange,88,9.5
+Fremont,Harmony,53,3.2
+Fremont,Flushing,76,1.1
+Fremont,Livermore,70,3.2
+Fremont,Harrisburg,130,7.3
+Fremont,Monmouth,126,3.8
+Fresno,Lockport,88,5.5
+Fresno,State College,81,7.4
+Fresno,Centralia,97,10.4
+Fresno,Walnut Creek,116,7.5
+Fresno,Mount Vernon,89,9.9
+Fullerton,Johnstown,68,6.4
+Fullerton,West Covina,96,1.3
+Fullerton,McKeesport,148,1.7
+Fullerton,Pomona,73,9.7
+Fullerton,Cheektowaga,68,10.8
+Garden Grove,Hazleton,127,3.0
+Garden Grove,Joliet,107,6.6
+Garden Grove,Germantown,122,2.8
+Garden Grove,Hudson,71,4.9
+Garden Grove,Stevens Point,62,7.8
+Glendale,Arthur,74,10.4
+Glendale,Davis,94,7.4
+Glendale,Oregon,76,4.4
+Glendale,Springfield,84,7.4
+Glendale,Babylon,70,2.5
+Hayward,White Plains,58,7.3
+Hayward,Watts,93,9.0
+Hayward,Jeannette,79,8.6
+Hayward,Renton,71,9.7
+Hayward,Spring Green,117,2.7
+Hollywood,Troy,140,6.7
+Hollywood,Highland Park,90,4.1
+Hollywood,El Monte,150,3.4
+Hollywood,Long Beach,80,7.4
+Hollywood,Fairfield,76,5.4
+Huntington Beach,Oneida,119,7.8
+Huntington Beach,Quincy,92,1.0
+Huntington Beach,San Diego,103,8.2
+Huntington Beach,River Forest,82,8.8
+Huntington Beach,Livermore,54,9.5
+Indio,Ukiah,139,1.8
+Indio,Springfield,87,6.0
+Indio,Claremont,133,1.8
+Indio,Carlinville,68,8.7
+Indio,Huntington,109,8.1
+Inglewood,Bloomington,149,9.3
+Inglewood,Hoquiam,149,8.5
+Inglewood,Concord,56,1.2
+Inglewood,Rockford,99,2.8
+Inglewood,Chester,126,1.4
+Irvine,Downey,83,9.7
+Irvine,Columbia,140,1.4
+Irvine,Claremont,59,3.5
+Irvine,Mountain View,64,8.7
+Irvine,Sunbury,97,2.9
+La Habra,Davis,63,9.1
+La Habra,Oswego,105,6.0
+La Habra,San Rafael,72,8.0
+La Habra,Watertown,112,7.0
+La Habra,Stony Point,113,7.8
+Laguna Beach,West Seneca,69,6.5
+Laguna Beach,Culver City,139,1.4
+Laguna Beach,Peshtigo,61,9.8
+Laguna Beach,Vandalia,78,2.7
+Laguna Beach,San Rafael,52,6.0
+Lancaster,New Paltz,64,7.6
+Lancaster,El Centro,142,8.6
+Lancaster,Park Forest,135,5.3
+Lancaster,Springfield,102,9.3
+Lancaster,Baraboo,104,9.7
+Livermore,Pekin,87,10.1
+Livermore,Hoquiam,85,4.0
+Livermore,Coulee Dam,133,10.5
+Livermore,Allentown,61,6.6
+Livermore,Yakima,87,2.4
+Lodi,Harmony,140,1.4
+Lodi,Champaign,63,9.8
+Lodi,Streator,81,2.8
+Lodi,Mattoon,141,7.4
+Lodi,Wood River,134,3.0
+Lompoc,Waukesha,86,7.0
+Lompoc,Prairie du Chien,79,2.6
+Lompoc,Yuba City,121,3.6
+Lompoc,Davis,70,5.6
+Lompoc,Oxnard,145,4.4
+Long Beach,Ashland,80,6.6
+Long Beach,Coronado,123,10.7
+Long Beach,Portage,98,9.8
+Long Beach,Auburn,141,9.8
+Long Beach,Lisle,130,6.6
+Los Angeles,Beacon,96,9.0
+Los Angeles,Barstow,96,5.0
+Los Angeles,Harrisburg,96,4.5
+Los Angeles,Thousand Oaks,88,2.6
+Los Angeles,Scranton,134,2.0
+Malibu,La Habra,77,4.7
+Malibu,Carlisle,144,5.4
+Malibu,Binghamton,63,3.7
+Malibu,Petersburg,77,10.8
+Malibu,Middletown,93,5.8
+Martinez,Beacon,67,3.9
+Martinez,Redlands,53,6.5
+Martinez,Antioch,69,10.3
+Martinez,Hammondsport,141,6.3
+Martinez,Johnstown,126,1.8
+Marysville,Scarsdale,95,10.9
+Marysville,Champaign,84,4.7
+Marysville,Queens,95,2.5
+Marysville,Zion,134,6.8
+Marysville,McKeesport,71,10.1
+Menlo Park,Costa Mesa,71,7.8
+Menlo Park,Chambersburg,141,2.9
+Menlo Park,Herrin,140,5.3
+Menlo Park,Franklin,60,9.3
+Menlo Park,Dixon,66,8.4
+Merced,White Plains,149,10.2
+Merced,Livermore,130,7.9
+Merced,Poughkeepsie,110,3.3
+Merced,Anaheim,130,5.3
+Merced,Vandalia,106,3.4
+Modesto,Eau Claire,92,5.5
+Modesto,Peshtigo,130,8.0
+Modesto,Stevens Point,136,9.1
+Modesto,Hayward,139,8.6
+Modesto,Centralia,121,9.5
+Monterey,Lackawanna,149,3.6
+Monterey,Menlo Park,123,7.5
+Monterey,Spring Green,148,6.6
+Monterey,Racine,138,6.2
+Monterey,Naperville,86,7.4
+Mountain View,Centralia,146,2.2
+Mountain View,Hoquiam,142,7.6
+Mountain View,Pacific Grove,114,2.5
+Mountain View,Amsterdam,101,5.2
+Mountain View,Harlem,146,10.5
+Napa,Joliet,100,1.4
+Napa,Palmyra,122,8.8
+Napa,Newburgh,130,6.7
+Napa,Joliet,88,3.9
+Napa,Rockford,54,7.9
+Needles,San Marino,77,10.9
+Needles,Port Angeles,150,10.1
+Needles,Glens Falls,59,6.6
+Needles,Peekskill,75,1.5
+Needles,La Crosse,65,10.4
+Newport Beach,Burbank,76,8.9
+Newport Beach,Ithaca,131,5.0
+Newport Beach,West Bend,80,1.4
+Newport Beach,Novato,116,1.3
+Newport Beach,Redondo Beach,134,9.1
+Norwalk,Olean,62,4.2
+Norwalk,Bellevue,142,10.9
+Norwalk,Kaskaskia,57,9.1
+Norwalk,Ilion,67,11.0
+Norwalk,Coupeville,55,4.6
+Novato,Ottawa,89,9.2
+Novato,Galena,133,2.4
+Novato,Plattsburgh,139,8.9
+Novato,Rensselaer,67,2.7
+Novato,San Francisco,115,10.5
+Oakland,Janesville,88,1.8
+Oakland,Yuba City,92,9.3
+Oakland,Gettysburg,129,4.3
+Oakland,La Crosse,69,9.7
+Oakland,New Windsor,63,1.8
+Oceanside,Bedford,85,8.5
+Oceanside,Everett,133,5.3
+Oceanside,Warren,139,6.6
+Oceanside,Stockton,123,4.2
+Oceanside,Pasco,101,2.0
+Ojai,Park Forest,129,8.1
+Ojai,Kenosha,136,5.9
+Ojai,Madison,61,8.2
+Ojai,Ukiah,138,6.8
+Ojai,Rancho Cucamonga,80,4.4
+Ontario,Syracuse,99,5.3
+Ontario,Philadelphia,125,1.6
+Ontario,Aberdeen,62,3.9
+Ontario,Marysville,132,3.3
+Ontario,Olympia,91,1.6
+Orange,Jacksonville,89,2.7
+Orange,Coney Island,60,8.5
+Orange,Pasadena,105,7.7
+Orange,Peshtigo,86,1.0
+Orange,San Pedro,57,6.4
+Oroville,Norwalk,81,10.8
+Oroville,Normal,91,1.4
+Oroville,Collinsville,110,10.9
+Oroville,San Gabriel,131,2.9
+Oroville,Monterey,79,6.8
+Oxnard,Madison,54,4.7
+Oxnard,State College,115,5.6
+Oxnard,Modesto,130,5.3
+Oxnard,Ephrata,91,2.4
+Oxnard,Janesville,99,10.9
+Pacific Grove,Mundelein,128,3.7
+Pacific Grove,Hazleton,119,6.1
+Pacific Grove,Manhattan,70,3.1
+Pacific Grove,Olean,132,6.8
+Pacific Grove,Cahokia,149,2.7
+Palm Springs,Merced,84,6.6
+Palm Springs,Peoria,95,7.9
+Palm Springs,West Covina,99,5.7
+Palm Springs,Highland Park,148,9.3
+Palm Springs,Norwalk,67,2.9
+Palmdale,Hanover,136,8.1
+Palmdale,Pottsville,58,4.9
+Palmdale,Utica,93,9.5
+Palmdale,Pasco,100,6.7
+Palmdale,Everett,89,6.6
+Palo Alto,McKeesport,79,4.5
+Palo Alto,Martinez,75,2.8
+Palo Alto,Ontario,128,10.6
+Palo Alto,Canton,68,10.2
+Palo Alto,Oak Harbor,79,3.8
+Pasadena,La Crosse,71,3.2
+Pasadena,La Salle,96,1.2
+Pasadena,Glens Falls,124,3.5
+Pasadena,Bellevue,89,2.3
+Pasadena,Watertown,76,4.1
+Petaluma,Summit,135,4.3
+Petaluma,Crown Point,100,9.9
+Petaluma,Hammondsport,121,2.1
+Petaluma,Stony Point,75,1.6
+Petaluma,Carbondale,57,3.1
+Pomona,Quincy,77,7.2
+Pomona,Watkins Glen,134,2.0
+Pomona,Santa Monica,94,8.3
+Pomona,Germantown,94,8.9
+Pomona,Pontiac,94,9.8
+Port Hueneme,Fairfield,141,1.2
+Port Hueneme,Marinette,64,9.1
+Port Hueneme,Palmdale,81,9.8
+Port Hueneme,Gloversville,133,4.5
+Port Hueneme,Ambridge,55,4.0
+Rancho Cucamonga,Green Bay,88,10.4
+Rancho Cucamonga,Champaign,118,4.8
+Rancho Cucamonga,Naperville,132,6.6
+Rancho Cucamonga,Santa Barbara,81,7.5
+Rancho Cucamonga,Monroeville,55,2.6
+Red Bluff,Turlock,64,7.2
+Red Bluff,Santa Cruz,109,4.8
+Red Bluff,El Monte,99,6.4
+Red Bluff,Hershey,59,1.5
+Red Bluff,Kingston,138,6.8
+Redding,Pittsburgh,78,8.3
+Redding,Tamaqua,66,6.5
+Redding,Torrance,123,3.4
+Redding,Turlock,149,5.3
+Redding,Garden City,64,2.8
+Redlands,Stevens Point,132,7.4
+Redlands,Santa Monica,95,2.2
+Redlands,Palm Springs,132,2.6
+Redlands,Antioch,58,6.9
+Redlands,Herrin,92,8.5
+Redondo Beach,Waukegan,112,5.5
+Redondo Beach,El Centro,104,10.8
+Redondo Beach,Monroeville,74,8.9
+Redondo Beach,York,144,9.7
+Redondo Beach,East Aurora,143,5.0
+Redwood City,Queens,51,6.5
+Redwood City,San Francisco,57,6.9
+Redwood City,Indio,87,7.7
+Redwood City,Everett,120,10.5
+Redwood City,Amsterdam,113,4.5
+Richmond,Marinette,79,9.3
+Richmond,Ventura,65,1.5
+Richmond,Kaskaskia,86,8.1
+Richmond,Granite City,129,8.7
+Richmond,New Paltz,141,3.6
+Riverside,Potsdam,142,1.5
+Riverside,North Hempstead,104,4.4
+Riverside,Syracuse,94,5.1
+Riverside,Seneca Falls,115,1.2
+Riverside,Brooklyn,75,10.1
+Roseville,Walla Walla,93,7.0
+Roseville,Park Forest,108,1.3
+Roseville,Milwaukee,146,6.6
+Roseville,Spring Green,54,5.8
+Roseville,Superior,131,2.1
+Sacramento,Levittown,70,1.8
+Sacramento,Kennewick,97,9.9
+Sacramento,El Cerrito,86,7.2
+Sacramento,South San Francisco,58,9.6
+Sacramento,Norwalk,135,6.8
+Salinas,Rye,92,8.1
+Salinas,Evanston,122,8.3
+Salinas,Mountain View,60,9.8
+Salinas,Watts,69,2.1
+Salinas,Naperville,120,7.9
+San Bernardino,Woodland,130,7.2
+San Bernardino,Mattoon,53,8.0
+San Bernardino,Petersburg,76,4.5
+San Bernardino,Utica,123,5.8
+San Bernardino,Galena,86,10.1
+San Clemente,Albany,134,6.1
+San Clemente,Watertown,125,2.6
+San Clemente,Claremont,78,7.7
+San Clemente,San Simeon,66,2.3
+San Clemente,Anaheim,61,7.7
+San Diego,Beverly Hills,82,6.1
+San Diego,Santa Monica,67,5.1
+San Diego,Virden,105,3.4
+San Diego,Harmony,126,5.9
+San Diego,La Salle,95,3.4
+San Fernando,Sharon,137,4.8
+San Fernando,Simi Valley,119,1.0
+San Fernando,Gettysburg,68,1.2
+San Fernando,Salinas,96,10.0
+San Fernando,Meadville,76,5.7
+San Francisco,Levittown,109,10.3
+San Francisco,Cahokia,144,5.3
+San Francisco,Monroeville,130,10.3
+San Francisco,Greensburg,103,5.7
+San Francisco,Peshtigo,82,8.3
+San Gabriel,Huntington,111,2.8
+San Gabriel,Chambersburg,73,2.1
+San Gabriel,Oak Harbor,94,2.2
+San Gabriel,Oregon,80,5.0
+San Gabriel,Dixon,120,4.5
+San Jose,Sonoma,55,9.6
+San Jose,Belmont,63,2.6
+San Jose,North Hempstead,63,9.7
+San Jose,Inglewood,137,5.4
+San Jose,San Jose,73,6.8
+San Juan Capistrano,Costa Mesa,150,8.4
+San Juan Capistrano,Aberdeen,129,10.8
+San Juan Capistrano,Redlands,116,1.5
+San Juan Capistrano,Calumet City,56,3.3
+San Juan Capistrano,Shawneetown,108,6.8
+San Leandro,Olympia,56,2.5
+San Leandro,Lock Haven,111,2.7
+San Leandro,Saranac Lake,133,10.0
+San Leandro,Mundelein,89,10.1
+San Leandro,Oak Park,95,6.6
+San Luis Obispo,South Holland,132,1.5
+San Luis Obispo,San Francisco,60,7.6
+San Luis Obispo,Ephrata,52,4.7
+San Luis Obispo,Centralia,66,10.4
+San Luis Obispo,Scarsdale,57,1.9
+San Marino,Ottawa,133,5.0
+San Marino,Chula Vista,69,1.9
+San Marino,Johnstown,75,2.6
+San Marino,West Covina,90,7.2
+San Marino,Ambridge,79,4.9
+San Mateo,Nauvoo,109,4.7
+San Mateo,Gloversville,111,1.3
+San Mateo,Redmond,53,3.8
+San Mateo,Oswego,107,6.0
+San Mateo,Oroville,108,6.7
+San Pedro,Ossining,52,2.5
+San Pedro,Oregon,137,10.0
+San Pedro,Middletown,138,8.2
+San Pedro,San Leandro,96,4.5
+San Pedro,Novato,93,8.5
+San Rafael,Danville,99,3.3
+San Rafael,Oyster Bay,85,6.5
+San Rafael,Lockport,149,8.3
+San Rafael,Hempstead,91,7.2
+San Rafael,San Fernando,99,3.6
+San Simeon,Mamaroneck,111,3.2
+San Simeon,Warren,72,10.8
+San Simeon,Fresno,101,9.8
+San Simeon,Monroeville,119,10.2
+San Simeon,Decatur,135,1.7
+Santa Ana,Rancho Cucamonga,75,2.3
+Santa Ana,Harmony,115,3.7
+Santa Ana,Oneonta,52,4.6
+Santa Ana,Norristown,146,1.2
+Santa Ana,Granite City,129,6.5
+Santa Barbara,Peoria,88,10.8
+Santa Barbara,Auburn,85,7.7
+Santa Barbara,Collinsville,58,6.7
+Santa Barbara,Compton,90,9.1
+Santa Barbara,Mattoon,92,7.4
+Santa Clara,Kelso,120,6.3
+Santa Clara,Harrisburg,131,4.6
+Santa Clara,Palm Springs,91,2.8
+Santa Clara,Belleville,51,1.5
+Santa Clara,Kaskaskia,60,6.3
+Santa Clarita,El Monte,70,6.0
+Santa Clarita,Moses Lake,58,9.6
+Santa Clarita,Huntington,69,8.0
+Santa Clarita,Highland Park,103,4.1
+Santa Clarita,Escondido,58,1.5
+Santa Cruz,Cheektowaga,103,5.7
+Santa Cruz,Daly City,81,6.8
+Santa Cruz,Madison,104,2.7
+Santa Cruz,Rye,139,10.4
+Santa Cruz,Watervliet,62,3.3
+Santa Monica,Auburn,65,11.0
+Santa Monica,Pittsburgh,93,6.8
+Santa Monica,Springfield,66,6.9
+Santa Monica,Hoquiam,100,9.4
+Santa Monica,Seattle,78,5.3
+Santa Rosa,Wenatchee,89,7.5
+Santa Rosa,El Centro,89,10.3
+Santa Rosa,Olean,117,3.2
+Santa Rosa,Shamokin,88,10.5
+Santa Rosa,Menasha,143,4.6
+Sausalito,Turlock,79,2.4
+Sausalito,Chicago Heights,88,1.4
+Sausalito,Hoquiam,147,3.3
+Sausalito,Alameda,115,6.4
+Sausalito,Oneida,80,9.5
+Simi Valley,Williamsport,60,3.0
+Simi Valley,Richmond,145,1.1
+Simi Valley,Santa Clarita,77,3.0
+Simi Valley,Modesto,75,6.1
+Simi Valley,Mount Vernon,93,6.4
+Sonoma,Salinas,118,1.9
+Sonoma,Jacksonville,132,3.8
+Sonoma,San Bernardino,129,10.9
+Sonoma,Saratoga Springs,95,5.0
+Sonoma,Downey,61,8.1
+South San Francisco,Santa Barbara,77,10.6
+South San Francisco,Cairo,137,10.0
+South San Francisco,Cortland,140,9.2
+South San Francisco,Kennewick,53,8.5
+South San Francisco,Bedford,94,8.1
+Stockton,Binghamton,118,4.7
+Stockton,Oroville,67,1.2
+Stockton,Oak Harbor,123,9.3
+Stockton,Queens,75,3.1
+Stockton,Pittsburgh,84,2.2
+Sunnyvale,Mamaroneck,85,8.8
+Sunnyvale,Lewistown,135,7.8
+Sunnyvale,Hazleton,109,2.2
+Sunnyvale,Brookfield,124,4.9
+Sunnyvale,Richmond,92,8.7
+Susanville,Kennewick,121,4.0
+Susanville,River Forest,133,7.2
+Susanville,Wenatchee,89,4.5
+Susanville,Mamaroneck,97,7.5
+Susanville,Amsterdam,55,7.7
+Thousand Oaks,Vallejo,70,4.9
+Thousand Oaks,Hyde Park,55,8.9
+Thousand Oaks,Lockport,74,7.8
+Thousand Oaks,Barstow,138,5.2
+Thousand Oaks,Red Bluff,96,10.9
+Torrance,Simi Valley,114,9.6
+Torrance,Oroville,73,4.6
+Torrance,Longview,139,8.8
+Torrance,Bronx,65,1.0
+Torrance,Homestead,73,3.6
+Turlock,Stony Brook,72,10.0
+Turlock,Daly City,133,7.2
+Turlock,Oswego,144,10.2
+Turlock,West Seneca,122,2.6
+Turlock,River Forest,139,1.9
+Ukiah,Palmdale,82,9.6
+Ukiah,Auburn,107,9.4
+Ukiah,Anacortes,55,4.5
+Ukiah,Oneonta,113,7.5
+Ukiah,West Seneca,99,9.1
+Vallejo,Moline,89,3.4
+Vallejo,Lake Geneva,69,6.0
+Vallejo,Bellingham,144,4.8
+Vallejo,Sag Harbor,80,10.7
+Vallejo,Meadville,134,4.2
+Ventura,Meadville,98,8.7
+Ventura,Santa Clarita,55,7.0
+Ventura,Martinez,94,1.3
+Ventura,Indio,80,6.9
+Ventura,Glenview,59,7.6
+Victorville,Joliet,81,4.0
+Victorville,Philadelphia,73,4.6
+Victorville,Flushing,71,2.3
+Victorville,Herrin,97,2.2
+Victorville,Menlo Park,147,5.6
+Visalia,Kingston,89,1.1
+Visalia,Waukesha,115,9.6
+Visalia,Corning,120,6.2
+Visalia,North Hempstead,77,4.0
+Visalia,Buena Park,55,10.0
+Walnut Creek,Neenah,52,6.9
+Walnut Creek,Portage,134,6.9
+Walnut Creek,Moline,144,4.8
+Walnut Creek,Phoenixville,73,8.4
+Walnut Creek,Queens,84,4.9
+Watts,Lake Placid,54,9.6
+Watts,Lewistown,130,9.1
+Watts,Park Ridge,98,1.9
+Watts,Hyde Park,139,6.1
+Watts,Chicago,53,4.6
+West Covina,Kewanee,71,6.3
+West Covina,Carthage,100,3.3
+West Covina,Bethlehem,83,2.3
+West Covina,Galesburg,138,3.9
+West Covina,San Luis Obispo,99,8.7
+Whittier,Ithaca,93,1.2
+Whittier,Pottstown,98,10.6
+Whittier,Chautauqua,122,6.3
+Whittier,Bellevue,142,10.8
+Whittier,Menasha,81,2.2
+Woodland,Swarthmore,63,2.1
+Woodland,Shamokin,107,3.7
+Woodland,San Gabriel,67,7.2
+Woodland,Rotterdam,130,10.6
+Woodland,Walla Walla,105,4.8
+Yorba Linda,Hershey,112,10.3
+Yorba Linda,Yakima,77,8.1
+Yorba Linda,San Rafael,52,8.2
+Yorba Linda,Oregon,128,10.4
+Yorba Linda,Orange,129,8.7
+Yuba City,Newport Beach,132,5.3
+Yuba City,New Glarus,146,5.0
+Yuba City,El Centro,100,10.7
+Yuba City,Tarrytown,120,1.9
+Yuba City,Ilion,91,4.9
+Alton,West Covina,75,6.8
+Alton,Kelso,79,3.8
+Alton,Spokane,56,9.0
+Alton,Aurora,101,2.9
+Alton,Macomb,113,8.7
+Arlington Heights,Yorba Linda,118,3.5
+Arlington Heights,Sacramento,134,3.5
+Arlington Heights,Glen Ellyn,119,2.8
+Arlington Heights,Ithaca,141,10.1
+Arlington Heights,Yuba City,63,4.8
+Arthur,Easton,119,1.5
+Arthur,Everett,89,5.6
+Arthur,Kewanee,64,2.2
+Arthur,Nyack,149,2.7
+Arthur,Burbank,118,3.0
+Aurora,Green Bay,114,9.8
+Aurora,Ithaca,88,3.7
+Aurora,Franklin,96,2.2
+Aurora,Oneonta,92,4.2
+Aurora,Belmont,147,9.7
+Belleville,Zion,66,5.8
+Belleville,Petersburg,119,4.2
+Belleville,Lebanon,54,3.6
+Belleville,Palo Alto,146,10.7
+Belleville,Culver City,67,3.8
+Belvidere,Waukesha,52,4.3
+Belvidere,Wilkes-Barre,144,4.4
+Belvidere,Glenview,70,3.1
+Belvidere,Jamestown,79,8.7
+Belvidere,Costa Mesa,88,10.9
+Bloomington,Levittown,81,8.8
+Bloomington,Cahokia,70,6.1
+Bloomington,Sharon,98,5.5
+Bloomington,Lebanon,133,2.0
+Bloomington,Point Roberts,55,5.2
+Brookfield,Vallejo,71,2.0
+Brookfield,Macomb,86,4.2
+Brookfield,Oak Harbor,111,2.2
+Brookfield,Charleston,106,10.2
+Brookfield,Galesburg,144,9.4
+Cahokia,Belmont,102,4.5
+Cahokia,Arlington Heights,77,5.7
+Cahokia,Orange,77,9.2
+Cahokia,Alhambra,101,5.3
+Cahokia,New Hope,58,6.6
+Cairo,Redmond,109,6.0
+Cairo,Prairie du Chien,87,6.9
+Cairo,Waukegan,117,7.6
+Cairo,Bethlehem,118,7.1
+Cairo,East Aurora,64,8.4
+Calumet City,Indio,145,9.1
+Calumet City,Huntington Beach,66,1.9
+Calumet City,Kenosha,99,3.7
+Calumet City,Hayward,131,7.8
+Calumet City,Appleton,109,9.0
+Canton,Oroville,131,9.5
+Canton,West Covina,128,6.2
+Canton,River Forest,119,3.0
+Canton,Salinas,76,10.5
+Canton,Rotterdam,73,8.0
+Carbondale,Pontiac,85,6.3
+Carbondale,Needles,127,5.5
+Carbondale,Sunbury,99,9.7
+Carbondale,Ogdensburg,88,1.7
+Carbondale,Hollywood,138,3.8
+Carlinville,San Jose,128,2.0
+Carlinville,Menasha,122,9.8
+Carlinville,Eau Claire,92,4.2
+Carlinville,Hollywood,96,4.3
+Carlinville,Poughkeepsie,52,9.4
+Carthage,Oregon,61,2.4
+Carthage,Ithaca,74,3.1
+Carthage,Superior,116,1.8
+Carthage,Buena Park,124,1.8
+Carthage,Oneida,60,8.0
+Centralia,Arlington Heights,129,5.2
+Centralia,New Paltz,99,4.2
+Centralia,Shawneetown,59,2.2
+Centralia,Stroudsburg,121,3.3
+Centralia,Orange,68,9.9
+Champaign,Germantown,66,7.5
+Champaign,San Juan Capistrano,90,5.5
+Champaign,Great Neck,120,10.0
+Champaign,Great Neck,142,5.7
+Champaign,Tonawanda,123,3.4
+Charleston,Bakersfield,79,1.4
+Charleston,Waukegan,104,10.6
+Charleston,Walla Walla,51,10.1
+Charleston,Stroudsburg,82,10.0
+Charleston,Massena,99,1.9
+Chester,Calumet City,104,2.1
+Chester,West Seneca,144,1.0
+Chester,San Juan Capistrano,60,1.9
+Chester,Monroeville,72,5.9
+Chester,West Allis,102,4.8
+Chicago,El Centro,99,2.8
+Chicago,San Fernando,138,8.5
+Chicago,Chicago Heights,100,7.4
+Chicago,Seattle,142,5.2
+Chicago,San Mateo,79,2.3
+Chicago Heights,Lincoln,55,10.3
+Chicago Heights,San Gabriel,95,3.3
+Chicago Heights,Winnetka,94,8.3
+Chicago Heights,Chester,136,6.3
+Chicago Heights,San Mateo,77,5.0
+Cicero,Monroeville,83,5.8
+Cicero,Reading,74,9.5
+Cicero,Watkins Glen,59,6.9
+Cicero,San Jose,83,10.9
+Cicero,Levittown,51,3.8
+Collinsville,New Glarus,120,1.8
+Collinsville,Oakland,68,6.0
+Collinsville,Pasco,127,6.4
+Collinsville,Fairfield,120,7.4
+Collinsville,Saranac Lake,78,4.2
+Danville,Canton,101,1.2
+Danville,Springfield,125,5.1
+Danville,Beverly Hills,82,4.5
+Danville,El Monte,139,1.6
+Danville,Hollywood,134,10.0
+Decatur,Riverside,54,3.4
+Decatur,Visalia,147,5.5
+Decatur,Stony Brook,62,2.5
+Decatur,Wilmette,106,1.0
+Decatur,Simi Valley,88,8.7
+DeKalb,Carbondale,131,2.8
+DeKalb,Port Hueneme,105,10.4
+DeKalb,West Seneca,134,10.2
+DeKalb,Petaluma,112,6.7
+DeKalb,Ogdensburg,136,9.1
+Des Plaines,Jacksonville,101,10.7
+Des Plaines,Bristol,64,10.9
+Des Plaines,Bradford,136,5.3
+Des Plaines,Santa Ana,97,9.3
+Des Plaines,Auburn,149,10.2
+Dixon,Lancaster,133,10.0
+Dixon,Belmont,75,3.0
+Dixon,Compton,73,3.9
+Dixon,Daly City,81,7.1
+Dixon,Batavia,81,3.6
+East Moline,Moline,121,10.6
+East Moline,Lewistown,142,1.7
+East Moline,Redmond,53,5.5
+East Moline,Red Bluff,139,2.0
+East Moline,West Chester,148,5.8
+East Saint Louis,Kennewick,139,4.3
+East Saint Louis,Kenosha,88,2.6
+East Saint Louis,New Windsor,147,5.4
+East Saint Louis,Pekin,129,6.8
+East Saint Louis,Centralia,133,8.1
+Effingham,Forest Hills,146,10.0
+Effingham,Daly City,111,2.3
+Effingham,Garden City,89,8.9
+Effingham,Rotterdam,66,6.0
+Effingham,Vallejo,149,6.1
+Elgin,Macomb,119,3.7
+Elgin,Beacon,94,2.5
+Elgin,Oneonta,124,4.7
+Elgin,Lombard,72,9.6
+Elgin,Thousand Oaks,148,9.4
+Elmhurst,Forest Hills,100,2.1
+Elmhurst,Santa Ana,102,4.3
+Elmhurst,Clinton,111,1.2
+Elmhurst,Vancouver,69,7.3
+Elmhurst,Kaskaskia,132,2.5
+Evanston,San Leandro,119,9.2
+Evanston,Mundelein,91,1.1
+Evanston,Lock Haven,54,8.7
+Evanston,Amsterdam,54,2.4
+Evanston,Meadville,133,4.3
+Freeport,Johnstown,127,10.2
+Freeport,Johnstown,114,1.7
+Freeport,East Saint Louis,95,9.6
+Freeport,Potsdam,56,4.6
+Freeport,Auburn,126,3.5
+Galena,Bremerton,85,7.2
+Galena,Clinton,82,5.7
+Galena,Chester,111,3.1
+Galena,Oyster Bay,62,9.1
+Galena,Turlock,148,3.9
+Galesburg,Hazleton,65,5.0
+Galesburg,Beacon,117,5.6
+Galesburg,Calistoga,70,6.0
+Galesburg,Canton,134,2.8
+Galesburg,Indio,129,6.0
+Glen Ellyn,Chester,107,3.5
+Glen Ellyn,Fond du Lac,63,4.1
+Glen Ellyn,Allentown,132,4.1
+Glen Ellyn,Sag Harbor,116,6.7
+Glen Ellyn,Cahokia,51,8.5
+Glenview,Binghamton,104,5.8
+Glenview,Niagara Falls,93,8.0
+Glenview,East Moline,147,3.4
+Glenview,Lake Placid,98,7.5
+Glenview,Longview,146,7.8
+Granite City,Ogdensburg,113,3.7
+Granite City,Centralia,133,7.1
+Granite City,Poughkeepsie,56,3.3
+Granite City,Kaskaskia,98,3.4
+Granite City,Napa,100,9.0
+Harrisburg,Stroudsburg,102,1.9
+Harrisburg,San Juan Capistrano,131,9.9
+Harrisburg,Wauwatosa,82,1.1
+Harrisburg,Milwaukee,75,3.5
+Harrisburg,Aberdeen,51,3.3
+Herrin,Escondido,69,1.4
+Herrin,Batavia,91,4.7
+Herrin,Santa Rosa,82,2.7
+Herrin,Glendale,90,3.5
+Herrin,Hazleton,137,9.3
+Highland Park,Watertown,105,3.1
+Highland Park,Arlington Heights,53,4.6
+Highland Park,Kankakee,63,6.7
+Highland Park,Homestead,54,4.8
+Highland Park,Belvidere,80,2.0
+Jacksonville,Lancaster,120,8.9
+Jacksonville,Schenectady,105,6.4
+Jacksonville,Martinez,89,9.7
+Jacksonville,Barstow,70,2.1
+Jacksonville,Ontario,148,10.9
+Joliet,Cortland,110,10.9
+Joliet,Walla Walla,90,3.6
+Joliet,West Allis,60,8.0
+Joliet,Petersburg,117,5.9
+Joliet,Sunnyvale,104,5.0
+Kankakee,Red Bluff,128,4.3
+Kankakee,Tarrytown,114,1.7
+Kankakee,Gettysburg,135,2.7
+Kankakee,Calexico,139,9.2
+Kankakee,Charleston,90,3.6
+Kaskaskia,San Bernardino,88,10.2
+Kaskaskia,Massena,144,9.8
+Kaskaskia,Ojai,52,8.0
+Kaskaskia,Mount Vernon,97,2.4
+Kaskaskia,Fullerton,122,3.7
+Kewanee,Lake Placid,58,3.4
+Kewanee,Coupeville,109,5.5
+Kewanee,Schenectady,115,5.8
+Kewanee,Ripon,70,5.4
+Kewanee,Oneida,84,2.3
+La Salle,Cahokia,148,6.5
+La Salle,Irvine,149,2.9
+La Salle,Ontario,100,4.3
+La Salle,Columbia,134,4.0
+La Salle,Oxnard,74,4.4
+Lake Forest,Ottawa,60,3.9
+Lake Forest,Chicago Heights,100,5.4
+Lake Forest,Aurora,117,1.7
+Lake Forest,Lake Placid,65,1.5
+Lake Forest,Compton,140,3.0
+Libertyville,San Diego,81,10.5
+Libertyville,Coupeville,126,3.7
+Libertyville,Sag Harbor,71,1.2
+Libertyville,Dunkirk,120,7.5
+Libertyville,Stockton,88,9.4
+Lincoln,Redding,93,7.0
+Lincoln,Racine,60,10.4
+Lincoln,Tarrytown,104,8.2
+Lincoln,Orange,146,10.4
+Lincoln,Sonoma,52,4.9
+Lisle,Lewistown,87,10.7
+Lisle,Belmont,73,1.3
+Lisle,Waukesha,56,9.4
+Lisle,Santa Rosa,108,5.4
+Lisle,Wenatchee,126,4.9
+Lombard,Rantoul,76,9.0
+Lombard,Erie,126,5.9
+Lombard,Dixon,140,6.0
+Lombard,Walnut Creek,102,10.3
+Lombard,Oregon,132,3.5
+Macomb,San Rafael,106,8.5
+Macomb,Oneonta,68,6.5
+Macomb,Buena Park,93,6.0
+Macomb,Indio,123,5.3
+Macomb,Rensselaer,107,9.7
+Mattoon,Jeannette,146,6.7
+Mattoon,Modesto,111,3.8
+Mattoon,Saranac Lake,146,9.0
+Mattoon,Pomona,69,3.6
+Mattoon,Bronx,99,9.9
+Moline,Indiana,117,3.3
+Moline,Oyster Bay,72,6.9
+Moline,Staten Island,69,7.9
+Moline,Kingston,100,2.5
+Moline,Stockton,83,3.4
+Monmouth,Flushing,71,4.0
+Monmouth,Hoquiam,95,8.1
+Monmouth,San Marino,65,4.6
+Monmouth,Kenosha,92,8.2
+Monmouth,Ukiah,73,8.5
+Mount Vernon,Whittier,115,5.5
+Mount Vernon,East Moline,135,8.9
+Mount Vernon,Chula Vista,108,3.3
+Mount Vernon,Yorba Linda,127,5.0
+Mount Vernon,Santa Barbara,54,9.9
+Mundelein,Fremont,74,10.9
+Mundelein,Hayward,87,5.3
+Mundelein,Kelso,118,2.3
+Mundelein,South San Francisco,94,3.1
+Mundelein,Kewanee,121,7.1
+Naperville,Ephrata,136,6.6
+Naperville,Rome,109,2.1
+Naperville,River Forest,142,5.3
+Naperville,Buffalo,88,8.4
+Naperville,Wauwatosa,89,5.0
+Nauvoo,Easton,113,9.4
+Nauvoo,Santa Monica,98,3.8
+Nauvoo,Burbank,123,6.2
+Nauvoo,Marysville,119,3.3
+Nauvoo,Salem,128,4.5
+Normal,Antioch,121,1.6
+Normal,Wheaton,84,7.1
+Normal,El Centro,102,6.4
+Normal,Naperville,71,10.7
+Normal,Quincy,102,5.8
+North Chicago,Rhinelander,124,9.6
+North Chicago,West Covina,100,8.5
+North Chicago,Abington,94,4.9
+North Chicago,Harrisburg,134,10.1
+North Chicago,Chicago,123,8.8
+Oak Park,Santa Clara,146,10.5
+Oak Park,Port Hueneme,65,2.5
+Oak Park,Ambridge,81,4.8
+Oak Park,Bakersfield,107,4.3
+Oak Park,San Clemente,111,10.5
+Oregon,Nyack,75,3.1
+Oregon,Yakima,77,10.2
+Oregon,Bronx,108,10.1
+Oregon,Johnstown,129,4.8
+Oregon,Woodland,77,1.6
+Ottawa,Lock Haven,104,5.2
+Ottawa,North Hempstead,80,6.8
+Ottawa,Queens,84,4.5
+Ottawa,Newport Beach,84,2.9
+Ottawa,Wenatchee,120,10.5
+Palatine,Columbia,69,2.1
+Palatine,Puyallup,113,7.3
+Palatine,Stevens Point,121,2.4
+Palatine,South Holland,111,10.7
+Palatine,Santa Clarita,89,9.4
+Park Forest,Ilion,71,7.0
+Park Forest,Hoquiam,74,6.1
+Park Forest,Corning,96,2.0
+Park Forest,Bethlehem,80,10.3
+Park Forest,Pullman,93,4.0
+Park Ridge,Livermore,120,2.7
+Park Ridge,Anaheim,110,7.3
+Park Ridge,Joliet,147,4.4
+Park Ridge,Coulee Dam,138,10.8
+Park Ridge,South Holland,61,2.6
+Pekin,Concord,120,5.2
+Pekin,Glen Ellyn,101,5.8
+Pekin,Bristol,137,3.6
+Pekin,Hyde Park,73,8.4
+Pekin,Marinette,54,5.0
+Peoria,Staten Island,77,6.7
+Peoria,Brooklyn,87,10.7
+Peoria,Lancaster,95,7.5
+Peoria,Daly City,94,10.3
+Peoria,Huntington Beach,122,6.5
+Petersburg,Alhambra,82,8.4
+Petersburg,San Francisco,150,7.9
+Petersburg,Long Beach,80,5.7
+Petersburg,Babylon,58,5.6
+Petersburg,West Covina,92,5.1
+Pontiac,Massena,145,6.4
+Pontiac,Antioch,112,8.7
+Pontiac,Lock Haven,114,4.4
+Pontiac,Saranac Lake,78,10.1
+Pontiac,Ambridge,80,10.4
+Quincy,Palmyra,126,8.7
+Quincy,Brea,100,2.5
+Quincy,Kingston,84,9.3
+Quincy,Geneva,68,5.9
+Quincy,Streator,74,8.0
+Rantoul,Glen Ellyn,145,2.3
+Rantoul,Fullerton,115,5.2
+Rantoul,Oneida,141,5.5
+Rantoul,Riverside,62,6.7
+Rantoul,Seneca Falls,105,10.4
+River Forest,Hayward,109,8.4
+River Forest,Salem,88,6.9
+River Forest,Orange,67,5.2
+River Forest,San Bernardino,106,10.9
+River Forest,Chautauqua,84,1.6
+Rock Island,Mount Vernon,51,2.3
+Rock Island,Lebanon,88,8.0
+Rock Island,Richmond,91,5.3
+Rock Island,Stockton,141,3.4
+Rock Island,North Chicago,100,10.1
+Rockford,Freeport,83,5.3
+Rockford,Levittown,149,5.7
+Rockford,Schenectady,54,9.3
+Rockford,Beacon,128,10.3
+Rockford,Rome,92,3.3
+Salem,Hayward,68,2.2
+Salem,Tacoma,120,2.0
+Salem,Brookfield,71,8.5
+Salem,Shawneetown,66,4.1
+Salem,San Gabriel,144,7.8
+Shawneetown,Prairie du Chien,69,8.4
+Shawneetown,Fond du Lac,72,6.6
+Shawneetown,Normal,76,8.1
+Shawneetown,Compton,107,10.3
+Shawneetown,Susanville,65,2.3
+Skokie,Kankakee,102,10.6
+Skokie,Brooklyn,128,8.0
+Skokie,Chester,91,5.5
+Skokie,Madison,92,5.1
+Skokie,DeKalb,69,4.8
+South Holland,Whittier,85,3.2
+South Holland,Moline,146,4.5
+South Holland,Lancaster,64,6.5
+South Holland,East Moline,81,2.7
+South Holland,Arlington Heights,56,4.6
+Springfield,Seattle,64,3.3
+Springfield,Lackawanna,54,2.3
+Springfield,Erie,142,6.6
+Springfield,Beloit,101,9.6
+Springfield,Fresno,106,3.2
+Streator,South San Francisco,149,8.4
+Streator,Rhinelander,141,2.0
+Streator,San Pedro,109,1.4
+Streator,Newport Beach,56,1.1
+Streator,Homestead,80,10.6
+Summit,Watervliet,86,5.8
+Summit,Saranac Lake,83,6.2
+Summit,Chicago Heights,129,4.9
+Summit,Ontario,107,5.8
+Summit,Fremont,90,1.1
+Urbana,Point Roberts,90,2.4
+Urbana,Ripon,58,7.2
+Urbana,Hollywood,108,2.3
+Urbana,Santa Barbara,62,10.4
+Urbana,Palmyra,74,10.5
+Vandalia,Brookfield,52,7.5
+Vandalia,Watts,80,5.9
+Vandalia,Levittown,93,1.2
+Vandalia,Carbondale,113,3.7
+Vandalia,Port Washington,94,9.0
+Virden,Troy,122,8.3
+Virden,Oswego,141,9.3
+Virden,Lisle,98,5.7
+Virden,Watts,74,9.5
+Virden,Monroeville,73,2.7
+Waukegan,Longview,112,1.7
+Waukegan,Eureka,118,4.1
+Waukegan,San Marino,93,2.9
+Waukegan,Carbondale,150,5.3
+Waukegan,Galesburg,126,1.4
+Wheaton,Downey,113,10.4
+Wheaton,West Allis,96,10.4
+Wheaton,Binghamton,140,6.6
+Wheaton,Chambersburg,136,5.4
+Wheaton,Baraboo,118,5.5
+Wilmette,Uniontown,66,2.2
+Wilmette,Ephrata,117,9.2
+Wilmette,Stony Point,83,10.8
+Wilmette,Homestead,112,8.8
+Wilmette,Ithaca,124,4.5
+Winnetka,Cicero,52,10.6
+Winnetka,Macomb,66,3.8
+Winnetka,Oneonta,148,5.3
+Winnetka,Antioch,120,8.0
+Winnetka,Longview,51,6.3
+Wood River,Wilmette,66,11.0
+Wood River,Arthur,67,1.3
+Wood River,Lancaster,74,2.8
+Wood River,Bethlehem,148,10.4
+Wood River,Ellensburg,126,6.7
+Zion,Richland,69,9.7
+Zion,Martinez,142,7.5
+Zion,New Glarus,71,3.3
+Zion,New Paltz,124,4.4
+Zion,La Habra,71,1.1
+Albany,Franklin,123,8.4
+Albany,Oneida,121,5.3
+Albany,Orange,113,5.3
+Albany,West Bend,57,5.7
+Albany,San Fernando,109,10.9
+Amsterdam,Aliquippa,107,3.3
+Amsterdam,Manhattan,101,8.2
+Amsterdam,Port Angeles,119,9.5
+Amsterdam,Pontiac,80,8.2
+Amsterdam,Pasadena,102,3.6
+Auburn,San Clemente,125,7.1
+Auburn,Long Beach,56,6.0
+Auburn,Pontiac,122,4.6
+Auburn,Aliquippa,147,2.5
+Auburn,Hempstead,98,6.1
+Babylon,Stony Point,132,10.5
+Babylon,East Saint Louis,85,10.5
+Babylon,Chula Vista,136,3.9
+Babylon,Kennewick,107,8.8
+Babylon,Rome,89,7.6
+Batavia,Alameda,75,7.4
+Batavia,Lompoc,98,1.9
+Batavia,Norristown,138,1.3
+Batavia,Kenosha,117,4.6
+Batavia,San Marino,58,4.9
+Beacon,Marysville,60,1.1
+Beacon,New Glarus,116,8.8
+Beacon,San Pedro,60,6.5
+Beacon,San Mateo,101,3.4
+Beacon,Hazleton,96,11.0
+Bedford,Orange,149,7.5
+Bedford,Watts,113,4.6
+Bedford,Belmont,51,1.3
+Bedford,El Cerrito,140,3.8
+Bedford,Redondo Beach,104,10.7
+Binghamton,Potsdam,82,1.7
+Binghamton,San Leandro,142,1.8
+Binghamton,Stony Point,125,5.0
+Binghamton,East Moline,80,6.2
+Binghamton,Southampton,76,10.1
+Bronx,Carlisle,73,7.6
+Bronx,Hazleton,114,6.4
+Bronx,Harmony,51,5.6
+Bronx,Amsterdam,115,6.5
+Bronx,Libertyville,61,3.4
+Brooklyn,Downey,115,7.3
+Brooklyn,Tamaqua,89,3.1
+Brooklyn,Santa Clara,88,8.0
+Brooklyn,Pekin,101,8.7
+Brooklyn,Wilkes-Barre,150,8.0
+Buffalo,Pullman,103,8.1
+Buffalo,Manitowoc,98,6.5
+Buffalo,Buffalo,81,8.4
+Buffalo,Stevens Point,136,1.8
+Buffalo,Jim Thorpe,83,6.6
+Chautauqua,Riverside,107,10.3
+Chautauqua,Champaign,95,2.0
+Chautauqua,Shamokin,119,6.0
+Chautauqua,Chicago Heights,106,9.8
+Chautauqua,Sheboygan,125,5.4
+Cheektowaga,Redondo Beach,108,10.8
+Cheektowaga,Albany,94,4.3
+Cheektowaga,San Juan Capistrano,93,6.7
+Cheektowaga,South San Francisco,86,2.7
+Cheektowaga,Reading,61,5.5
+Clinton,Calumet City,51,1.8
+Clinton,Allentown,136,9.5
+Clinton,Belmont,75,4.9
+Clinton,Escondido,93,8.3
+Clinton,West Chester,120,1.5
+Cohoes,Aliquippa,118,1.3
+Cohoes,Shamokin,123,8.7
+Cohoes,San Simeon,63,9.3
+Cohoes,Ithaca,101,1.5
+Cohoes,Rockford,60,9.8
+Coney Island,New Hope,104,3.0
+Coney Island,Downey,125,8.4
+Coney Island,Culver City,88,1.0
+Coney Island,Gettysburg,70,3.6
+Coney Island,Mount Vernon,139,8.8
+Cooperstown,Lompoc,54,3.0
+Cooperstown,Collinsville,66,4.4
+Cooperstown,Gloversville,86,3.2
+Cooperstown,West Bend,77,3.8
+Cooperstown,San Simeon,71,5.4
+Corning,Hayward,104,7.4
+Corning,Anacortes,93,3.5
+Corning,Corning,69,3.9
+Corning,Alameda,71,3.0
+Corning,Cohoes,119,5.7
+Cortland,Rancho Cucamonga,80,3.2
+Cortland,Harrisburg,68,6.4
+Cortland,La Salle,90,2.3
+Cortland,Effingham,73,1.5
+Cortland,Walnut Creek,63,10.7
+Crown Point,Orange,134,8.2
+Crown Point,Oswego,51,6.9
+Crown Point,Mundelein,145,2.8
+Crown Point,Santa Barbara,66,8.7
+Crown Point,Sunnyvale,79,1.9
+Dunkirk,Bedford,102,8.5
+Dunkirk,Kewanee,104,4.4
+Dunkirk,Wilmette,65,6.9
+Dunkirk,Spokane,126,5.7
+Dunkirk,Reading,118,6.1
+East Aurora,Nauvoo,118,6.6
+East Aurora,Sacramento,133,11.0
+East Aurora,Burbank,147,1.9
+East Aurora,Sunnyvale,90,2.3
+East Aurora,Niagara Falls,137,6.3
+East Hampton,Racine,123,1.8
+East Hampton,Lebanon,109,8.3
+East Hampton,Yonkers,72,7.8
+East Hampton,Highland Park,120,10.6
+East Hampton,Sunbury,114,7.3
+Eastchester,Gloversville,139,10.0
+Eastchester,Massena,146,2.9
+Eastchester,Watertown,87,8.1
+Eastchester,Ontario,118,3.4
+Eastchester,Herrin,141,9.0
+Elmira,Burbank,88,1.1
+Elmira,Irvine,127,5.7
+Elmira,Scarsdale,104,6.6
+Elmira,Cairo,60,7.8
+Elmira,Anaheim,110,8.3
+Flushing,Green Bay,147,1.1
+Flushing,Pacific Grove,122,2.4
+Flushing,Geneva,53,9.0
+Flushing,Beacon,80,5.0
+Flushing,Schenectady,83,8.3
+Forest Hills,Champaign,55,4.1
+Forest Hills,Auburn,112,9.2
+Forest Hills,Warren,55,6.5
+Forest Hills,Oswego,87,6.7
+Forest Hills,Buena Park,139,8.2
+Fredonia,Pittsburgh,139,8.8
+Fredonia,New York City,106,8.6
+Fredonia,Eastchester,53,4.0
+Fredonia,Claremont,141,6.6
+Fredonia,Kennewick,98,1.7
+Garden City,Portage,119,1.1
+Garden City,Roseville,51,7.2
+Garden City,Amsterdam,129,8.5
+Garden City,East Saint Louis,59,9.1
+Garden City,Jacksonville,122,4.5
+Geneva,New York City,128,9.6
+Geneva,Berkeley,82,10.1
+Geneva,Scarsdale,144,1.9
+Geneva,Jamestown,80,7.0
+Geneva,Corning,129,3.9
+Glens Falls,Carbondale,148,6.7
+Glens Falls,North Chicago,146,1.9
+Glens Falls,Anacortes,100,10.8
+Glens Falls,Bethlehem,112,1.7
+Glens Falls,North Chicago,97,6.4
+Gloversville,San Francisco,77,9.2
+Gloversville,Bremerton,129,8.8
+Gloversville,El Centro,61,9.7
+Gloversville,Calistoga,132,4.7
+Gloversville,Arthur,70,7.4
+Great Neck,Granite City,70,9.9
+Great Neck,Sonoma,119,8.3
+Great Neck,Pomona,93,6.0
+Great Neck,Brea,110,11.0
+Great Neck,New Glarus,102,3.6
+Hammondsport,Rantoul,107,6.1
+Hammondsport,East Saint Louis,130,8.1
+Hammondsport,Norwalk,103,9.8
+Hammondsport,Beloit,55,2.4
+Hammondsport,Reading,63,6.9
+Harlem,Centralia,120,7.0
+Harlem,Wilmette,94,6.9
+Harlem,Libertyville,147,7.2
+Harlem,Indiana,69,7.9
+Harlem,Bloomsburg,124,7.9
+Hempstead,Amsterdam,86,1.9
+Hempstead,Palm Springs,110,9.1
+Hempstead,San Leandro,120,1.7
+Hempstead,Moline,59,4.9
+Hempstead,Rhinelander,142,1.4
+Herkimer,Harmony,60,8.6
+Herkimer,Sharon,74,9.5
+Herkimer,McKeesport,126,1.1
+Herkimer,Norwalk,96,9.0
+Herkimer,Carlisle,76,6.5
+Hudson,Lompoc,82,6.8
+Hudson,Torrance,118,6.6
+Hudson,Oswego,56,6.6
+Hudson,Huntington,105,7.3
+Hudson,Seattle,139,2.3
+Huntington,Stony Point,126,8.4
+Huntington,Stony Brook,59,4.0
+Huntington,Rancho Cucamonga,123,1.8
+Huntington,Lompoc,51,4.3
+Huntington,Highland Park,143,8.0
+Hyde Park,Aliquippa,86,10.0
+Hyde Park,Wilmette,107,4.3
+Hyde Park,Janesville,81,1.4
+Hyde Park,Palatine,123,6.3
+Hyde Park,Kenosha,61,2.2
+Ilion,Elmira,128,8.5
+Ilion,Santa Clara,128,8.1
+Ilion,Pomona,81,4.4
+Ilion,Collinsville,117,4.2
+Ilion,Oxnard,85,4.9
+Ithaca,Claremont,140,4.8
+Ithaca,Eau Claire,84,7.3
+Ithaca,Redlands,149,10.8
+Ithaca,San Simeon,121,3.9
+Ithaca,Kenosha,106,8.4
+Jamestown,Red Bluff,147,8.4
+Jamestown,San Simeon,57,7.9
+Jamestown,Ogdensburg,150,9.8
+Jamestown,Longview,132,1.9
+Jamestown,San Luis Obispo,94,10.9
+Johnstown,Oneonta,123,6.4
+Johnstown,Calistoga,97,4.0
+Johnstown,Pomona,58,1.2
+Johnstown,Redlands,84,8.4
+Johnstown,Virden,77,9.7
+Kingston,Port Angeles,110,8.2
+Kingston,Des Plaines,52,5.2
+Kingston,Antioch,98,2.6
+Kingston,Homestead,74,2.6
+Kingston,San Mateo,70,2.9
+Lackawanna,Irvine,96,4.7
+Lackawanna,Antioch,116,8.0
+Lackawanna,Ogdensburg,123,10.9
+Lackawanna,Pasadena,128,3.0
+Lackawanna,Elmhurst,86,10.0
+Lake Placid,Monroeville,52,10.1
+Lake Placid,Oneida,99,2.9
+Lake Placid,Garden Grove,124,6.0
+Lake Placid,Hempstead,132,1.3
+Lake Placid,Sunnyvale,135,4.8
+Levittown,Huntington,97,1.6
+Levittown,Uniontown,148,8.1
+Levittown,New Glarus,108,10.4
+Levittown,Moses Lake,129,9.0
+Levittown,Easton,113,8.8
+Lockport,Pekin,74,9.9
+Lockport,Des Plaines,61,9.8
+Lockport,New Windsor,66,2.9
+Lockport,Compton,85,2.7
+Lockport,Palo Alto,75,2.4
+Mamaroneck,Hayward,72,9.6
+Mamaroneck,San Marino,148,10.2
+Mamaroneck,Palmyra,135,2.7
+Mamaroneck,Hoquiam,64,4.6
+Mamaroneck,Levittown,65,5.2
+Manhattan,Mount Vernon,113,3.2
+Manhattan,Troy,73,2.5
+Manhattan,Normal,70,5.4
+Manhattan,Geneva,119,10.9
+Manhattan,Wilkes-Barre,128,8.4
+Massena,Carlsbad,111,8.2
+Massena,Bremerton,142,2.4
+Massena,Elgin,94,3.6
+Massena,Richland,70,1.4
+Massena,Kenosha,87,5.9
+Middletown,Stony Brook,112,4.1
+Middletown,Santa Monica,61,9.7
+Middletown,East Moline,76,8.8
+Middletown,Marysville,115,5.4
+Middletown,Aberdeen,108,7.2
+Mineola,Belleville,71,4.6
+Mineola,Dunkirk,148,1.7
+Mineola,Effingham,129,9.6
+Mineola,Ambridge,117,1.2
+Mineola,Monmouth,122,9.3
+Mount Vernon,Aliquippa,57,4.2
+Mount Vernon,Crown Point,129,8.0
+Mount Vernon,Long Beach,111,3.4
+Mount Vernon,Belleville,142,3.8
+Mount Vernon,Wilmette,66,10.9
+New Paltz,Oconto,121,6.0
+New Paltz,Syracuse,132,9.0
+New Paltz,Springfield,136,5.2
+New Paltz,Whittier,132,7.3
+New Paltz,Richland,95,3.1
+New Rochelle,Marinette,141,1.0
+New Rochelle,Bellevue,53,3.9
+New Rochelle,Tamaqua,90,8.2
+New Rochelle,Coulee Dam,64,5.5
+New Rochelle,Highland Park,136,4.4
+New Windsor,Bellevue,126,6.1
+New Windsor,Baraboo,124,4.4
+New Windsor,Sunnyvale,98,7.5
+New Windsor,Moline,64,2.9
+New Windsor,Hayward,126,10.6
+New York City,San Luis Obispo,129,7.3
+New York City,Monterey,66,3.0
+New York City,Rantoul,117,4.4
+New York City,Ephrata,135,1.5
+New York City,Wheaton,76,9.5
+Newburgh,Evanston,113,6.3
+Newburgh,Ambridge,61,5.4
+Newburgh,Longview,84,6.7
+Newburgh,Ojai,121,2.7
+Newburgh,Rye,120,4.8
+Niagara Falls,Lancaster,114,1.9
+Niagara Falls,San Bernardino,71,7.9
+Niagara Falls,El Cerrito,104,10.6
+Niagara Falls,Sheboygan,126,10.5
+Niagara Falls,Indio,97,3.7
+North Hempstead,Levittown,121,7.6
+North Hempstead,Indiana,60,2.7
+North Hempstead,Yonkers,114,6.2
+North Hempstead,Pottsville,133,6.6
+North Hempstead,West Seneca,81,9.7
+Nyack,Wauwatosa,148,2.8
+Nyack,Abington,125,7.1
+Nyack,Oswego,124,7.1
+Nyack,Bloomsburg,137,4.6
+Nyack,West Chester,58,4.1
+Ogdensburg,Fremont,110,10.8
+Ogdensburg,Philadelphia,79,6.4
+Ogdensburg,Kelso,79,2.2
+Ogdensburg,Redding,91,4.6
+Ogdensburg,Levittown,100,1.8
+Olean,West Covina,80,10.7
+Olean,Carbondale,71,4.1
+Olean,San Jose,138,6.8
+Olean,Belleville,136,6.7
+Olean,Baraboo,69,7.7
+Oneida,Walla Walla,83,5.7
+Oneida,East Saint Louis,86,6.1
+Oneida,Spokane,116,3.1
+Oneida,Galesburg,62,5.0
+Oneida,Norwalk,108,5.8
+Oneonta,Kennewick,95,8.9
+Oneonta,Redondo Beach,58,6.9
+Oneonta,Kenosha,110,6.6
+Oneonta,Cairo,140,5.4
+Oneonta,Eastchester,121,1.3
+Ossining,Swarthmore,140,3.0
+Ossining,Wausau,65,4.3
+Ossining,Washington,52,2.4
+Ossining,Elmira,89,5.5
+Ossining,Watervliet,138,2.3
+Oswego,Tacoma,59,3.0
+Oswego,Streator,141,9.8
+Oswego,Chautauqua,99,9.3
+Oswego,Rotterdam,136,8.3
+Oswego,Yorba Linda,123,8.5
+Oyster Bay,Oyster Bay,74,6.6
+Oyster Bay,San Mateo,137,5.1
+Oyster Bay,Portage,101,9.9
+Oyster Bay,Wenatchee,105,5.1
+Oyster Bay,Swarthmore,68,7.4
+Palmyra,Santa Rosa,129,9.3
+Palmyra,Menasha,58,2.4
+Palmyra,Oregon,97,7.3
+Palmyra,Flushing,78,7.1
+Palmyra,Carlinville,127,3.9
+Peekskill,Oak Harbor,149,1.2
+Peekskill,Wausau,132,2.7
+Peekskill,East Saint Louis,102,10.3
+Peekskill,Cohoes,143,10.4
+Peekskill,Hayward,113,5.9
+Plattsburgh,McKeesport,85,4.3
+Plattsburgh,Racine,63,10.9
+Plattsburgh,San Diego,77,6.4
+Plattsburgh,Mount Vernon,108,6.9
+Plattsburgh,Ossining,57,8.7
+Port Washington,Elgin,100,8.3
+Port Washington,Stockton,85,7.0
+Port Washington,Nyack,61,3.4
+Port Washington,Germantown,65,6.0
+Port Washington,Vancouver,55,9.8
+Potsdam,Palm Springs,101,6.2
+Potsdam,Auburn,101,7.8
+Potsdam,Hammondsport,54,4.9
+Potsdam,Richmond,126,7.5
+Potsdam,Santa Clara,149,3.8
+Poughkeepsie,Hazleton,86,6.7
+Poughkeepsie,Eau Claire,85,7.3
+Poughkeepsie,Ogdensburg,149,4.1
+Poughkeepsie,Ottawa,62,2.5
+Poughkeepsie,Hollywood,60,3.9
+Queens,Chambersburg,98,6.2
+Queens,Oxnard,69,2.7
+Queens,Santa Ana,51,8.0
+Queens,Utica,54,8.3
+Queens,Oshkosh,57,4.2
+Rensselaer,Dunkirk,69,5.0
+Rensselaer,Pekin,117,9.5
+Rensselaer,Great Neck,147,6.4
+Rensselaer,Poughkeepsie,105,2.3
+Rensselaer,Ossining,113,1.8
+Rochester,Chester,59,6.2
+Rochester,Joliet,124,10.7
+Rochester,New Glarus,131,10.4
+Rochester,Carthage,55,5.0
+Rochester,Staten Island,98,10.1
+Rome,Sturgeon Bay,136,8.9
+Rome,Park Forest,141,8.9
+Rome,Charleston,115,6.3
+Rome,Pottstown,129,10.2
+Rome,Mount Vernon,104,9.8
+Rotterdam,Lake Forest,55,2.7
+Rotterdam,Yuba City,132,1.8
+Rotterdam,Aliquippa,68,5.8
+Rotterdam,Olean,66,8.2
+Rotterdam,Lombard,132,9.7
+Rye,San Clemente,129,2.1
+Rye,Nanticoke,111,3.3
+Rye,Columbia,57,3.4
+Rye,Chico,129,7.9
+Rye,Ilion,96,10.9
+Sag Harbor,Visalia,52,9.2
+Sag Harbor,Amsterdam,78,5.9
+Sag Harbor,La Crosse,92,8.5
+Sag Harbor,Joliet,68,9.2
+Sag Harbor,Greensburg,126,5.4
+Saranac Lake,Glen Ellyn,91,7.2
+Saranac Lake,Marysville,133,10.1
+Saranac Lake,Reading,59,6.5
+Saranac Lake,Wheaton,138,6.6
+Saranac Lake,Charleston,103,5.7
+Saratoga Springs,Manitowoc,51,6.4
+Saratoga Springs,Hayward,93,8.6
+Saratoga Springs,Compton,129,5.2
+Saratoga Springs,Highland Park,95,5.4
+Saratoga Springs,Ephrata,80,7.3
+Scarsdale,Collinsville,111,1.7
+Scarsdale,Forest Hills,89,10.6
+Scarsdale,Hyde Park,149,3.8
+Scarsdale,Rancho Cucamonga,65,8.0
+Scarsdale,Great Neck,77,1.9
+Schenectady,Moline,104,2.2
+Schenectady,Tamaqua,114,2.3
+Schenectady,Malibu,104,10.0
+Schenectady,Moses Lake,102,1.9
+Schenectady,Oyster Bay,117,6.6
+Seneca Falls,San Leandro,105,10.3
+Seneca Falls,San Simeon,118,8.5
+Seneca Falls,Watts,73,5.2
+Seneca Falls,Santa Clara,65,1.7
+Seneca Falls,Ithaca,61,7.7
+Southampton,Palmyra,112,6.0
+Southampton,Flushing,147,7.5
+Southampton,Saratoga Springs,103,8.2
+Southampton,Glens Falls,73,6.0
+Southampton,Escondido,61,9.0
+Staten Island,San Gabriel,104,8.4
+Staten Island,Pomona,54,9.3
+Staten Island,Menasha,106,7.9
+Staten Island,Elgin,53,9.9
+Staten Island,Harrisburg,112,6.3
+Stony Brook,Pomona,80,9.3
+Stony Brook,Alhambra,84,7.1
+Stony Brook,Santa Clarita,147,6.5
+Stony Brook,Poughkeepsie,128,7.0
+Stony Brook,Martinez,150,6.0
+Stony Point,Neenah,111,8.5
+Stony Point,Watertown,67,5.6
+Stony Point,Centralia,132,3.9
+Stony Point,North Hempstead,89,3.2
+Stony Point,Scarsdale,70,5.4
+Syracuse,Oroville,54,2.9
+Syracuse,Manitowoc,64,1.5
+Syracuse,San Leandro,54,2.6
+Syracuse,Woodland,83,7.2
+Syracuse,Corning,132,5.7
+Tarrytown,Torrance,66,9.8
+Tarrytown,Watervliet,91,2.1
+Tarrytown,Red Bluff,78,3.9
+Tarrytown,Torrance,107,2.6
+Tarrytown,Park Ridge,74,7.4
+Ticonderoga,Albany,92,10.0
+Ticonderoga,Charleston,68,7.3
+Ticonderoga,Sag Harbor,123,10.6
+Ticonderoga,Champaign,95,1.8
+Ticonderoga,Kingston,102,2.5
+Tonawanda,Fullerton,70,9.2
+Tonawanda,New Kensington,138,8.7
+Tonawanda,Kelso,141,5.3
+Tonawanda,Orange,53,1.5
+Tonawanda,Palmdale,110,5.7
+Troy,Nanticoke,141,7.6
+Troy,Palmdale,114,10.8
+Troy,Lompoc,62,3.5
+Troy,Reading,141,6.2
+Troy,Coney Island,54,3.2
+Utica,Southampton,89,9.6
+Utica,Shamokin,78,5.5
+Utica,Prairie du Chien,143,9.9
+Utica,Vallejo,84,5.8
+Utica,Martinez,77,4.9
+Watertown,Freeport,68,9.4
+Watertown,Spokane,130,9.9
+Watertown,Oswego,85,4.1
+Watertown,Amsterdam,130,9.8
+Watertown,Davis,131,10.9
+Watervliet,Rantoul,103,3.6
+Watervliet,Pasadena,63,3.1
+Watervliet,Kennewick,94,8.4
+Watervliet,Novato,136,9.2
+Watervliet,Oakland,130,6.8
+Watkins Glen,Erie,51,1.8
+Watkins Glen,Milwaukee,135,8.3
+Watkins Glen,El Centro,138,9.1
+Watkins Glen,Red Bluff,66,10.5
+Watkins Glen,Great Neck,92,7.3
+West Seneca,Yuba City,90,10.9
+West Seneca,Carthage,70,8.3
+West Seneca,Saratoga Springs,114,5.5
+West Seneca,Rome,59,2.9
+West Seneca,Lancaster,70,3.2
+White Plains,Lincoln,88,10.6
+White Plains,Fresno,145,10.8
+White Plains,Kelso,94,10.0
+White Plains,Corning,71,6.3
+White Plains,Corona,134,10.7
+Woodstock,Cairo,122,2.0
+Woodstock,San Fernando,118,6.2
+Woodstock,Salinas,136,5.8
+Woodstock,Corona,100,2.4
+Woodstock,Ukiah,112,4.8
+Yonkers,Anacortes,111,2.7
+Yonkers,Peekskill,68,1.9
+Yonkers,Whittier,88,1.3
+Yonkers,Altoona,92,6.5
+Yonkers,Kingston,144,6.5
+Abington,Baraboo,106,5.8
+Abington,Yorba Linda,120,1.2
+Abington,Brea,138,2.6
+Abington,Elmhurst,115,7.1
+Abington,Nyack,138,2.6
+Aliquippa,Monterey,113,2.7
+Aliquippa,Coupeville,123,1.4
+Aliquippa,Bradford,73,6.1
+Aliquippa,Ambridge,57,8.3
+Aliquippa,Berkeley,107,4.7
+Allentown,Hazleton,135,10.7
+Allentown,Marysville,136,4.9
+Allentown,Pontiac,59,6.5
+Allentown,Sturgeon Bay,127,10.0
+Allentown,San Juan Capistrano,97,2.0
+Altoona,Sunbury,130,1.8
+Altoona,Ventura,126,1.7
+Altoona,Tarrytown,109,7.8
+Altoona,Burbank,71,8.2
+Altoona,Whittier,74,4.5
+Ambridge,Norristown,140,9.7
+Ambridge,South Holland,99,3.4
+Ambridge,Chautauqua,114,5.2
+Ambridge,Calistoga,99,6.2
+Ambridge,Cairo,147,5.8
+Bedford,Reading,137,3.4
+Bedford,Merced,87,9.4
+Bedford,El Cerrito,67,4.0
+Bedford,Vandalia,122,2.6
+Bedford,Clinton,80,7.7
+Bethlehem,Ripon,96,1.9
+Bethlehem,Bloomsburg,107,2.3
+Bethlehem,Meadville,142,2.3
+Bethlehem,Tacoma,103,9.1
+Bethlehem,Germantown,123,9.1
+Bloomsburg,Pasadena,102,2.2
+Bloomsburg,Cheektowaga,69,1.5
+Bloomsburg,Lincoln,127,2.7
+Bloomsburg,Beacon,84,4.4
+Bloomsburg,Palo Alto,105,8.5
+Bradford,Ticonderoga,84,3.6
+Bradford,Oroville,70,4.6
+Bradford,Stony Brook,57,4.0
+Bradford,Mount Vernon,119,4.5
+Bradford,Harrisburg,51,1.8
+Bristol,San Pedro,88,8.2
+Bristol,Bellevue,123,8.9
+Bristol,Freeport,121,6.0
+Bristol,York,140,7.2
+Bristol,Long Beach,121,5.3
+Carbondale,Watervliet,80,11.0
+Carbondale,Daly City,134,8.2
+Carbondale,Santa Rosa,73,10.9
+Carbondale,Chester,58,4.1
+Carbondale,Chester,104,9.0
+Carlisle,Sonoma,115,10.3
+Carlisle,Shamokin,74,6.1
+Carlisle,Johnstown,69,2.5
+Carlisle,Milwaukee,93,9.4
+Carlisle,Lodi,86,9.6
+Chambersburg,Rotterdam,110,3.7
+Chambersburg,Woodstock,144,3.7
+Chambersburg,El Centro,128,6.3
+Chambersburg,Erie,143,6.6
+Chambersburg,Mamaroneck,67,7.2
+Chester,Brea,137,10.9
+Chester,Massena,89,5.5
+Chester,Erie,74,3.7
+Chester,New Kensington,140,2.9
+Chester,Redondo Beach,96,4.3
+Columbia,Lompoc,85,8.6
+Columbia,San Simeon,145,1.9
+Columbia,Franklin,67,3.0
+Columbia,Wheaton,104,9.0
+Columbia,Elmhurst,141,8.9
+Easton,Calexico,146,10.8
+Easton,Chambersburg,101,2.2
+Easton,San Diego,76,10.2
+Easton,Wausau,85,6.2
+Easton,Wheaton,86,2.0
+Erie,Pontiac,104,5.1
+Erie,Seneca Falls,86,6.6
+Erie,Beacon,128,5.4
+Erie,Davis,60,9.8
+Erie,Merced,96,9.4
+Franklin,San Clemente,87,6.1
+Franklin,Roseville,73,1.9
+Franklin,El Centro,117,9.3
+Franklin,Riverside,116,7.9
+Franklin,Pottstown,87,1.7
+Germantown,San Juan Capistrano,63,1.7
+Germantown,Sunnyvale,121,5.0
+Germantown,Kelso,133,2.1
+Germantown,Laguna Beach,85,1.9
+Germantown,Wauwatosa,115,2.3
+Gettysburg,Pittsburgh,149,5.1
+Gettysburg,Chicago Heights,65,7.5
+Gettysburg,Normal,62,5.7
+Gettysburg,Charleston,109,9.1
+Gettysburg,New Kensington,72,10.3
+Greensburg,Oceanside,76,9.6
+Greensburg,Oak Park,128,9.8
+Greensburg,Waukegan,141,7.6
+Greensburg,Washington,150,7.3
+Greensburg,Bethlehem,56,8.0
+Hanover,Puyallup,57,2.9
+Hanover,Garden Grove,83,8.5
+Hanover,West Chester,76,6.2
+Hanover,Simi Valley,130,7.2
+Hanover,Bellevue,63,2.5
+Harmony,Plattsburgh,75,4.3
+Harmony,Santa Ana,103,2.4
+Harmony,Chula Vista,77,5.5
+Harmony,Green Bay,132,9.9
+Harmony,San Gabriel,99,9.2
+Harrisburg,Middletown,144,5.0
+Harrisburg,Novato,109,1.4
+Harrisburg,Amsterdam,134,7.0
+Harrisburg,Prairie du Chien,105,4.2
+Harrisburg,Danville,93,7.3
+Hazleton,Watertown,127,8.1
+Hazleton,Bellingham,69,5.3
+Hazleton,Kingston,101,7.1
+Hazleton,Hammondsport,74,5.9
+Hazleton,Shawneetown,136,8.5
+Hershey,Marinette,61,6.6
+Hershey,Beloit,150,6.3
+Hershey,Danville,102,5.0
+Hershey,San Leandro,96,5.8
+Hershey,Auburn,135,9.6
+Homestead,Salinas,75,10.6
+Homestead,South Holland,114,10.8
+Homestead,Redding,82,9.0
+Homestead,Oceanside,138,3.4
+Homestead,Hayward,140,2.4
+Honesdale,Crown Point,142,5.1
+Honesdale,Tonawanda,116,4.3
+Honesdale,San Clemente,138,1.1
+Honesdale,Cahokia,143,5.6
+Honesdale,Aliquippa,64,6.9
+Indiana,Mineola,62,5.3
+Indiana,Highland Park,140,6.5
+Indiana,Berkeley,120,6.6
+Indiana,Joliet,143,7.1
+Indiana,Glens Falls,101,10.8
+Jeannette,Oxnard,107,3.6
+Jeannette,Reading,91,1.7
+Jeannette,Collinsville,80,2.6
+Jeannette,Compton,111,1.1
+Jeannette,Brea,139,4.3
+Jim Thorpe,Long Beach,129,5.3
+Jim Thorpe,Coney Island,87,4.1
+Jim Thorpe,Shamokin,143,2.6
+Jim Thorpe,West Allis,82,5.7
+Jim Thorpe,Moline,74,6.8
+Johnstown,Sharon,142,6.4
+Johnstown,Chautauqua,131,4.0
+Johnstown,Fresno,68,10.6
+Johnstown,Everett,131,2.4
+Johnstown,Racine,143,7.6
+Lancaster,Oneonta,122,9.5
+Lancaster,Kewanee,86,2.9
+Lancaster,New Glarus,93,6.1
+Lancaster,Sausalito,101,1.8
+Lancaster,Sausalito,87,5.2
+Lebanon,Port Hueneme,81,8.4
+Lebanon,Rock Island,95,1.4
+Lebanon,Salem,150,8.4
+Lebanon,Zion,66,7.0
+Lebanon,Santa Clara,127,5.9
+Levittown,San Bernardino,150,9.4
+Levittown,Oneonta,124,2.3
+Levittown,Williamsport,65,1.9
+Levittown,Kenosha,106,6.1
+Levittown,Naperville,136,4.6
+Lewistown,Cortland,67,8.0
+Lewistown,Port Angeles,150,6.2
+Lewistown,Wilmette,144,4.4
+Lewistown,Rome,127,6.9
+Lewistown,Waukegan,89,4.7
+Lock Haven,Coney Island,147,3.2
+Lock Haven,West Chester,86,4.5
+Lock Haven,Corona,84,5.3
+Lock Haven,Swarthmore,53,10.4
+Lock Haven,Rhinelander,133,2.3
+Lower Southampton,Honesdale,105,2.5
+Lower Southampton,Lisle,132,10.8
+Lower Southampton,Titusville,103,8.9
+Lower Southampton,Palatine,62,8.2
+Lower Southampton,Hershey,139,4.0
+McKeesport,Poughkeepsie,139,8.7
+McKeesport,York,79,4.2
+McKeesport,Evanston,72,2.0
+McKeesport,Lake Forest,100,9.0
+McKeesport,Marysville,111,1.3
+Meadville,Glenview,56,8.6
+Meadville,Mattoon,102,2.7
+Meadville,Buena Park,111,6.9
+Meadville,Lake Placid,119,1.9
+Meadville,Jim Thorpe,71,9.5
+Middletown,Garden City,147,7.3
+Middletown,Jacksonville,115,7.0
+Middletown,Summit,134,6.1
+Middletown,Whittier,121,5.9
+Middletown,Kankakee,125,9.0
+Monroeville,Abington,88,8.1
+Monroeville,Santa Ana,114,5.2
+Monroeville,Summit,138,5.1
+Monroeville,Granite City,101,2.1
+Monroeville,Winnetka,58,8.4
+Nanticoke,Honesdale,91,8.7
+Nanticoke,Norwalk,58,8.2
+Nanticoke,Chester,91,9.0
+Nanticoke,Simi Valley,71,3.5
+Nanticoke,Washington,108,7.6
+New Castle,Bradford,126,4.9
+New Castle,Glen Ellyn,82,1.4
+New Castle,Glens Falls,82,3.5
+New Castle,East Aurora,147,9.3
+New Castle,Tamaqua,113,6.6
+New Hope,Hempstead,80,10.8
+New Hope,Titusville,76,6.0
+New Hope,Fremont,127,6.1
+New Hope,Inglewood,116,3.8
+New Hope,Los Angeles,123,6.9
+New Kensington,Jamestown,127,7.0
+New Kensington,Nauvoo,64,8.0
+New Kensington,Woodland,79,8.7
+New Kensington,Bethlehem,108,3.8
+New Kensington,Lodi,71,2.2
+Norristown,State College,127,5.0
+Norristown,Norwalk,55,8.6
+Norristown,Redmond,112,2.6
+Norristown,Sonoma,70,4.0
+Norristown,Mundelein,79,10.5
+Oil City,Poughkeepsie,82,9.7
+Oil City,Hanover,137,7.5
+Oil City,Chula Vista,76,5.0
+Oil City,Elgin,127,1.1
+Oil City,York,69,6.5
+Philadelphia,South San Francisco,136,9.4
+Philadelphia,Madison,65,3.5
+Philadelphia,Cooperstown,88,9.1
+Philadelphia,Concord,120,10.1
+Philadelphia,Watervliet,138,4.1
+Phoenixville,La Habra,108,10.5
+Phoenixville,Indio,51,5.1
+Phoenixville,Glens Falls,124,4.1
+Phoenixville,Red Bluff,91,8.4
+Phoenixville,Park Forest,99,8.9
+Pittsburgh,Stockton,84,5.6
+Pittsburgh,San Luis Obispo,135,9.4
+Pittsburgh,Palm Springs,53,5.4
+Pittsburgh,Fairfield,104,9.0
+Pittsburgh,Bronx,145,9.8
+Pottstown,Middletown,118,3.8
+Pottstown,San Francisco,113,4.7
+Pottstown,Syracuse,109,5.7
+Pottstown,Johnstown,150,3.5
+Pottstown,Salem,131,7.6
+Pottsville,Columbia,72,7.7
+Pottsville,Newport Beach,95,3.3
+Pottsville,Sunbury,64,2.3
+Pottsville,Middletown,118,4.3
+Pottsville,Babylon,142,8.2
+Reading,Poughkeepsie,120,1.5
+Reading,Santa Barbara,103,1.2
+Reading,New Castle,145,10.3
+Reading,Bedford,125,2.4
+Reading,Belmont,99,10.6
+Scranton,Columbia,62,3.5
+Scranton,Chico,91,9.6
+Scranton,Port Washington,55,7.6
+Scranton,Everett,125,5.9
+Scranton,Brooklyn,132,8.5
+Shamokin,Nauvoo,142,3.9
+Shamokin,Hayward,134,9.3
+Shamokin,Kankakee,142,3.7
+Shamokin,Irvine,116,7.9
+Shamokin,Coney Island,72,5.0
+Sharon,West Bend,106,9.2
+Sharon,Santa Rosa,85,7.2
+Sharon,Puyallup,91,2.6
+Sharon,Elmira,91,10.6
+Sharon,Middletown,95,5.3
+State College,Monroeville,150,4.8
+State College,Shawneetown,83,3.1
+State College,Prairie du Chien,79,2.6
+State College,Great Neck,71,1.5
+State College,Visalia,142,10.2
+Stroudsburg,Cairo,128,1.8
+Stroudsburg,Lake Forest,142,6.8
+Stroudsburg,Vallejo,82,2.4
+Stroudsburg,Oil City,55,2.2
+Stroudsburg,Ellensburg,58,5.5
+Sunbury,Ilion,80,8.0
+Sunbury,Bethlehem,89,2.3
+Sunbury,Jeannette,75,6.6
+Sunbury,Lackawanna,64,7.6
+Sunbury,Corona,114,8.3
+Swarthmore,New Rochelle,84,10.2
+Swarthmore,Ojai,108,7.3
+Swarthmore,San Pedro,80,6.9
+Swarthmore,Santa Clarita,143,5.4
+Swarthmore,Lackawanna,134,4.9
+Tamaqua,Germantown,114,7.4
+Tamaqua,Nyack,59,8.5
+Tamaqua,Modesto,53,9.4
+Tamaqua,Glen Ellyn,126,3.1
+Tamaqua,Sturgeon Bay,105,8.7
+Titusville,Santa Barbara,122,4.7
+Titusville,Kelso,149,9.7
+Titusville,Virden,73,3.3
+Titusville,Tacoma,135,4.1
+Titusville,Libertyville,120,1.5
+Uniontown,Woodstock,143,7.8
+Uniontown,Lower Southampton,128,2.5
+Uniontown,Watertown,146,4.2
+Uniontown,Ossining,143,3.7
+Uniontown,Auburn,139,5.7
+Warren,Spokane,82,10.5
+Warren,Needles,58,2.0
+Warren,Geneva,142,8.5
+Warren,La Crosse,51,5.1
+Warren,Libertyville,112,8.7
+Washington,Aliquippa,110,3.5
+Washington,Dixon,91,8.2
+Washington,Santa Cruz,125,9.4
+Washington,San Gabriel,136,2.9
+Washington,Saratoga Springs,55,9.1
+West Chester,Harrisburg,90,9.9
+West Chester,Woodland,55,9.0
+West Chester,Anacortes,54,8.8
+West Chester,Granite City,99,7.1
+West Chester,Schenectady,98,6.9
+Wilkes-Barre,Everett,94,5.7
+Wilkes-Barre,Macomb,89,10.7
+Wilkes-Barre,Claremont,122,6.9
+Wilkes-Barre,Rantoul,58,7.4
+Wilkes-Barre,Merced,88,5.0
+Williamsport,Lincoln,134,8.1
+Williamsport,Honesdale,84,9.9
+Williamsport,North Hempstead,95,5.5
+Williamsport,Freeport,66,2.8
+Williamsport,Santa Clarita,115,2.2
+York,Carlsbad,64,3.8
+York,Pasadena,63,2.1
+York,Shawneetown,91,5.6
+York,Pullman,55,8.8
+York,Wisconsin Dells,60,8.6
+Aberdeen,Indio,135,2.7
+Aberdeen,Kankakee,106,3.3
+Aberdeen,Collinsville,70,6.2
+Aberdeen,Spokane,130,10.5
+Aberdeen,La Crosse,68,6.7
+Anacortes,Stroudsburg,57,1.3
+Anacortes,Bradford,107,7.6
+Anacortes,East Aurora,100,6.9
+Anacortes,Ilion,109,10.6
+Anacortes,Davis,91,5.6
+Auburn,Longview,94,7.4
+Auburn,La Crosse,64,3.5
+Auburn,Aberdeen,133,1.5
+Auburn,Forest Hills,109,7.1
+Auburn,Bellevue,107,9.8
+Bellevue,Yorba Linda,52,4.0
+Bellevue,Santa Clarita,98,10.2
+Bellevue,Santa Clara,84,1.8
+Bellevue,Cicero,76,1.3
+Bellevue,Chula Vista,64,2.9
+Bellingham,Port Angeles,136,8.2
+Bellingham,Hollywood,57,1.8
+Bellingham,Menasha,58,8.3
+Bellingham,Stroudsburg,122,3.4
+Bellingham,Alhambra,80,7.3
+Bremerton,Coulee Dam,66,1.5
+Bremerton,Davis,135,9.9
+Bremerton,Bloomsburg,83,2.8
+Bremerton,Danville,126,7.3
+Bremerton,Lancaster,102,10.2
+Centralia,Cairo,75,9.6
+Centralia,Sharon,150,3.4
+Centralia,Levittown,95,5.7
+Centralia,Madison,118,10.9
+Centralia,Green Bay,105,1.1
+Coulee Dam,Spring Green,106,7.2
+Coulee Dam,Oneonta,91,6.9
+Coulee Dam,Macomb,106,10.7
+Coulee Dam,Renton,97,9.1
+Coulee Dam,South Holland,51,1.6
+Coupeville,Monroeville,145,6.6
+Coupeville,Newburgh,78,1.7
+Coupeville,Santa Ana,118,5.1
+Coupeville,Chester,70,4.8
+Coupeville,Kelso,150,3.5
+Ellensburg,Kelso,136,2.6
+Ellensburg,Beverly Hills,73,3.7
+Ellensburg,Queens,95,9.3
+Ellensburg,Buena Park,60,7.5
+Ellensburg,Champaign,93,6.5
+Ephrata,East Saint Louis,113,7.2
+Ephrata,McKeesport,133,9.4
+Ephrata,Culver City,104,8.9
+Ephrata,Chicago Heights,147,10.9
+Ephrata,Lancaster,94,10.3
+Everett,Laguna Beach,139,3.3
+Everett,Milwaukee,83,3.0
+Everett,Mount Vernon,142,7.7
+Everett,Alton,144,6.8
+Everett,Sag Harbor,100,6.2
+Hoquiam,Palm Springs,119,8.4
+Hoquiam,Wilmette,67,7.6
+Hoquiam,New Hope,109,10.0
+Hoquiam,Franklin,142,5.4
+Hoquiam,Orange,135,6.9
+Kelso,San Jose,121,2.1
+Kelso,Uniontown,140,4.2
+Kelso,Port Washington,66,3.2
+Kelso,Pasadena,102,7.9
+Kelso,Bradford,103,2.7
+Kennewick,Kewanee,136,4.2
+Kennewick,Bremerton,115,3.8
+Kennewick,Urbana,67,2.9
+Kennewick,Port Washington,89,5.1
+Kennewick,Bremerton,141,1.3
+Longview,Coupeville,126,5.3
+Longview,Cheektowaga,107,2.1
+Longview,Skokie,74,10.1
+Longview,Laguna Beach,80,7.5
+Longview,Hollywood,103,10.0
+Moses Lake,Olympia,118,8.1
+Moses Lake,Arcadia,133,8.4
+Moses Lake,Whittier,130,4.0
+Moses Lake,Libertyville,67,4.2
+Moses Lake,Calumet City,89,5.7
+Oak Harbor,New Glarus,136,3.2
+Oak Harbor,Hayward,94,5.8
+Oak Harbor,Mountain View,82,10.1
+Oak Harbor,San Pedro,134,1.3
+Oak Harbor,Cairo,96,2.8
+Olympia,Beacon,120,5.3
+Olympia,Salem,144,6.2
+Olympia,Watervliet,72,4.1
+Olympia,Pacific Grove,71,3.6
+Olympia,Stevens Point,59,3.4
+Pasco,West Seneca,133,1.5
+Pasco,San Luis Obispo,110,5.3
+Pasco,Danville,75,4.6
+Pasco,Mount Vernon,72,2.8
+Pasco,Salem,102,8.1
+Point Roberts,Bremerton,119,1.8
+Point Roberts,Pittsburgh,141,2.4
+Point Roberts,Peoria,65,9.6
+Point Roberts,San Francisco,126,6.2
+Point Roberts,Norristown,62,1.2
+Port Angeles,Libertyville,91,11.0
+Port Angeles,Arthur,148,4.9
+Port Angeles,Granite City,101,5.2
+Port Angeles,New Hope,109,8.6
+Port Angeles,Pullman,133,9.8
+Pullman,Jeannette,124,4.0
+Pullman,Newport Beach,106,8.4
+Pullman,Cooperstown,145,8.0
+Pullman,Libertyville,69,8.5
+Pullman,Pasadena,134,4.4
+Puyallup,Hempstead,142,9.1
+Puyallup,Carbondale,65,7.8
+Puyallup,Aurora,147,10.9
+Puyallup,Yonkers,134,7.7
+Puyallup,Los Angeles,95,1.9
+Redmond,Lincoln,74,10.5
+Redmond,Oneida,105,5.5
+Redmond,Mount Vernon,76,8.1
+Redmond,San Luis Obispo,118,3.9
+Redmond,Erie,79,1.1
+Renton,Manitowoc,101,6.7
+Renton,Chico,87,3.0
+Renton,Inglewood,127,10.4
+Renton,Aliquippa,114,3.8
+Renton,Coney Island,84,7.7
+Richland,Honesdale,121,6.5
+Richland,Green Bay,132,2.0
+Richland,San Bernardino,141,9.9
+Richland,Redwood City,61,3.1
+Richland,La Salle,97,3.8
+Seattle,South San Francisco,88,10.3
+Seattle,Bronx,134,2.7
+Seattle,Port Hueneme,98,1.2
+Seattle,West Bend,63,7.8
+Seattle,Novato,51,4.7
+Spokane,Warren,58,1.4
+Spokane,Ellensburg,109,1.9
+Spokane,North Chicago,62,4.9
+Spokane,Nauvoo,139,5.3
+Spokane,Pittsburgh,62,9.7
+Tacoma,Petersburg,61,9.5
+Tacoma,Bremerton,115,4.0
+Tacoma,Chester,96,3.7
+Tacoma,Rye,122,6.0
+Tacoma,Clinton,113,2.5
+Vancouver,San Clemente,116,7.9
+Vancouver,San Leandro,119,7.4
+Vancouver,Pottsville,76,4.0
+Vancouver,Williamsport,126,1.3
+Vancouver,Downey,73,9.3
+Walla Walla,Jacksonville,75,2.6
+Walla Walla,Berkeley,67,8.3
+Walla Walla,New Paltz,75,2.9
+Walla Walla,Oneonta,127,5.3
+Walla Walla,Palmdale,78,6.5
+Wenatchee,Great Neck,101,10.2
+Wenatchee,Altoona,55,2.8
+Wenatchee,Shawneetown,149,4.0
+Wenatchee,Naperville,123,10.0
+Wenatchee,Niagara Falls,118,2.3
+Yakima,Southampton,141,2.6
+Yakima,Palm Springs,131,7.1
+Yakima,River Forest,86,1.0
+Yakima,Tamaqua,130,4.9
+Yakima,Ontario,89,5.7
+Appleton,Troy,65,7.3
+Appleton,Wenatchee,102,9.3
+Appleton,Hollywood,127,10.9
+Appleton,Janesville,125,2.8
+Appleton,Yuba City,133,5.6
+Ashland,Pacific Grove,103,5.6
+Ashland,Mundelein,71,4.8
+Ashland,Aberdeen,131,7.7
+Ashland,Kennewick,61,8.9
+Ashland,Laguna Beach,69,10.5
+Baraboo,North Hempstead,146,2.8
+Baraboo,Ithaca,79,9.8
+Baraboo,Moline,98,7.7
+Baraboo,Irvine,116,2.1
+Baraboo,Bloomsburg,76,8.4
+Belmont,Williamsport,118,5.1
+Belmont,San Pedro,145,7.8
+Belmont,McKeesport,119,4.3
+Belmont,Olean,86,2.0
+Belmont,Levittown,86,3.6
+Beloit,Laguna Beach,109,6.1
+Beloit,Hudson,80,6.7
+Beloit,New Rochelle,132,1.3
+Beloit,Rome,74,7.0
+Beloit,Auburn,84,1.3
+Eau Claire,Roseville,56,9.2
+Eau Claire,Winnetka,52,9.6
+Eau Claire,Libertyville,95,1.6
+Eau Claire,Barstow,92,2.9
+Eau Claire,Potsdam,118,4.2
+Fond du Lac,Bremerton,94,1.5
+Fond du Lac,Pekin,142,5.4
+Fond du Lac,Anacortes,129,10.1
+Fond du Lac,Winnetka,66,7.3
+Fond du Lac,Beloit,71,7.0
+Green Bay,Stony Point,96,4.1
+Green Bay,Bristol,102,2.4
+Green Bay,Belmont,56,5.6
+Green Bay,New Paltz,108,9.4
+Green Bay,San Clemente,56,6.9
+Hayward,Cohoes,110,6.0
+Hayward,Belmont,77,3.4
+Hayward,Macomb,134,5.4
+Hayward,Evanston,118,7.3
+Hayward,Harrisburg,136,1.5
+Janesville,Hazleton,112,6.8
+Janesville,Rotterdam,145,4.7
+Janesville,Downey,93,5.9
+Janesville,El Monte,51,2.9
+Janesville,Beverly Hills,130,8.5
+Kenosha,Saratoga Springs,125,5.4
+Kenosha,Walnut Creek,92,5.9
+Kenosha,Portage,123,9.8
+Kenosha,Ukiah,66,9.6
+Kenosha,Kingston,144,9.3
+La Crosse,Hollywood,115,7.9
+La Crosse,Fredonia,89,4.2
+La Crosse,Eau Claire,105,7.9
+La Crosse,Granite City,118,6.8
+La Crosse,Laguna Beach,117,4.1
+Lake Geneva,Ilion,90,2.5
+Lake Geneva,Peshtigo,61,6.0
+Lake Geneva,Arcadia,144,3.9
+Lake Geneva,Libertyville,96,9.0
+Lake Geneva,Ithaca,92,10.4
+Madison,Malibu,80,9.7
+Madison,South Holland,54,8.4
+Madison,Spring Green,119,3.9
+Madison,Nanticoke,126,2.6
+Madison,Ogdensburg,137,3.7
+Manitowoc,Elgin,134,1.4
+Manitowoc,Cahokia,90,5.5
+Manitowoc,Riverside,117,5.6
+Manitowoc,Wisconsin Dells,104,8.1
+Manitowoc,Waukegan,129,10.8
+Marinette,Laguna Beach,81,4.5
+Marinette,East Saint Louis,68,1.5
+Marinette,Crown Point,78,8.7
+Marinette,Lancaster,72,11.0
+Marinette,Appleton,89,4.1
+Menasha,Garden Grove,54,3.1
+Menasha,Wausau,116,3.4
+Menasha,Santa Rosa,61,8.6
+Menasha,Buffalo,108,5.0
+Menasha,Herkimer,94,10.0
+Milwaukee,Poughkeepsie,135,6.7
+Milwaukee,Arthur,148,10.5
+Milwaukee,Centralia,70,1.9
+Milwaukee,Oregon,141,1.7
+Milwaukee,Brookfield,144,7.6
+Neenah,Dunkirk,116,10.3
+Neenah,Syracuse,135,10.9
+Neenah,Downey,113,1.6
+Neenah,Coronado,150,5.2
+Neenah,Scranton,72,6.0
+New Glarus,San Gabriel,137,1.5
+New Glarus,Forest Hills,147,8.7
+New Glarus,Carbondale,67,2.8
+New Glarus,Hudson,103,5.5
+New Glarus,Woodstock,85,11.0
+Oconto,Inglewood,53,7.1
+Oconto,Ticonderoga,98,3.2
+Oconto,Utica,137,10.9
+Oconto,Centralia,103,5.7
+Oconto,Concord,58,7.0
+Oshkosh,Petersburg,123,5.4
+Oshkosh,Hammondsport,78,4.3
+Oshkosh,Chula Vista,67,10.2
+Oshkosh,Redlands,106,6.7
+Oshkosh,Nauvoo,121,4.5
+Peshtigo,North Chicago,83,8.6
+Peshtigo,Huntington,70,1.7
+Peshtigo,Santa Monica,127,6.7
+Peshtigo,Honesdale,90,9.6
+Peshtigo,New Rochelle,119,3.3
+Portage,San Juan Capistrano,140,9.8
+Portage,Arcadia,94,3.4
+Portage,Anacortes,112,6.8
+Portage,Long Beach,143,6.6
+Portage,Spokane,106,4.7
+Prairie du Chien,Swarthmore,142,2.5
+Prairie du Chien,Kennewick,82,7.4
+Prairie du Chien,Ossining,141,6.8
+Prairie du Chien,Beloit,92,5.6
+Prairie du Chien,Williamsport,133,9.7
+Racine,Naperville,95,8.1
+Racine,Portage,70,11.0
+Racine,West Seneca,114,4.9
+Racine,Evanston,51,4.3
+Racine,Bristol,128,3.1
+Rhinelander,San Juan Capistrano,90,4.8
+Rhinelander,Springfield,126,11.0
+Rhinelander,Titusville,134,5.1
+Rhinelander,Ossining,79,7.7
+Rhinelander,South San Francisco,70,2.3
+Ripon,Carthage,51,5.0
+Ripon,State College,147,5.9
+Ripon,Belvidere,140,6.9
+Ripon,Coney Island,126,9.6
+Ripon,Calumet City,120,9.6
+Sheboygan,Fond du Lac,70,2.6
+Sheboygan,Poughkeepsie,107,6.7
+Sheboygan,La Crosse,78,10.0
+Sheboygan,Homestead,52,4.5
+Sheboygan,Monmouth,77,5.2
+Spring Green,Oneida,69,6.6
+Spring Green,Lockport,68,7.7
+Spring Green,Park Ridge,133,10.0
+Spring Green,Oregon,70,6.1
+Spring Green,Park Forest,123,2.4
+Stevens Point,Stony Point,71,8.9
+Stevens Point,Allentown,143,4.2
+Stevens Point,Canton,54,4.5
+Stevens Point,Visalia,116,10.7
+Stevens Point,Homestead,85,5.0
+Sturgeon Bay,Oneonta,64,2.7
+Sturgeon Bay,Port Hueneme,149,1.9
+Sturgeon Bay,Pasadena,109,5.5
+Sturgeon Bay,Johnstown,87,10.9
+Sturgeon Bay,Jacksonville,71,2.3
+Superior,Garden Grove,77,9.9
+Superior,Glen Ellyn,55,5.3
+Superior,Burbank,137,6.2
+Superior,Lewistown,74,5.6
+Superior,Novato,76,1.8
+Waukesha,Erie,94,8.4
+Waukesha,Oroville,103,10.2
+Waukesha,Wauwatosa,71,10.6
+Waukesha,Lake Geneva,85,4.9
+Waukesha,Anacortes,66,3.0
+Wausau,Auburn,119,1.5
+Wausau,Modesto,51,4.1
+Wausau,Middletown,130,5.1
+Wausau,Park Forest,117,1.9
+Wausau,Park Ridge,96,9.8
+Wauwatosa,Laguna Beach,148,6.9
+Wauwatosa,Calexico,103,9.3
+Wauwatosa,Pekin,101,1.6
+Wauwatosa,Belleville,141,5.8
+Wauwatosa,Easton,54,6.8
+West Allis,East Saint Louis,102,2.3
+West Allis,Petaluma,101,9.2
+West Allis,Aberdeen,81,4.3
+West Allis,Malibu,61,6.2
+West Allis,Chautauqua,59,5.6
+West Bend,Eastchester,117,5.1
+West Bend,Watervliet,59,9.9
+West Bend,Levittown,82,8.3
+West Bend,Richmond,149,3.5
+West Bend,Walla Walla,78,2.4
+A,B,1,1
